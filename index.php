@@ -48,19 +48,19 @@
             <a href="">
               <i class="fa fa-phone" aria-hidden="true"></i>
               <span>
-                Call : +01 123455678990
+                8866320893/9429040878
               </span>
             </a>
             <a href="">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                Email : demo@gmail.com
+                info@lilavanti.org
               </span>
             </a>
             <a href="">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span>
-                Location
+                Lilavanti Educational & Medical Charitable Trust
               </span>
             </a>
           </div>
@@ -88,13 +88,13 @@
                     <a class="nav-link" href="about.html"> About</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="treatment.html">Treatment</a>
+                    <a class="nav-link" href="treatment.html">Mission</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="doctor.html">Doctors</a>
+                    <a class="nav-link" href="doctor.html">Trustee Details</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="testimonial.html">Testimonial</a>
+                    <a class="nav-link" href="testimonial.html">Vision</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact Us</a>
@@ -359,7 +359,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Hospital <span>Treatment</span>
+          Our <span>Mission</span>
         </h2>
       </div>
       <div class="row">
@@ -370,14 +370,11 @@
             </div>
             <div class="detail-box">
               <h4>
-                Nephrologist Care
+                Quality education
               </h4>
               <p>
-                alteration in some form, by injected humour, or randomised words which don't look even slightly e sure there isn't anything
+              Our mission is to reconstruct and redevelop the skills of individuals. To achieve this noble goal, we are dedicated to providing high-quality education, expert consultancy, and comprehensive training programs. By empowering people with the necessary knowledge and skills, we aim to foster personal growth and contribute to the overall development of our society.
               </p>
-              <a href="">
-                Read More
-              </a>
             </div>
           </div>
         </div>
@@ -388,14 +385,11 @@
             </div>
             <div class="detail-box">
               <h4>
-                Eye Care
+                Empowerment
               </h4>
               <p>
-                alteration in some form, by injected humour, or randomised words which don't look even slightly e sure there isn't anything
+                We are committed to fostering independent critical thinking and socio-scientific competence, building the capacity to empower learners in achieving their professional and social goals. Our aim is to enhance the quality of life in harmony with cultural values by providing enriching learning opportunities. We are dedicated to the inculcation of the highest human values, ensuring that our educational programs not only impart knowledge but also promote ethical and moral development.
               </p>
-              <a href="">
-                Read More
-              </a>
             </div>
           </div>
         </div>
@@ -406,32 +400,11 @@
             </div>
             <div class="detail-box">
               <h4>
-                Pediatrician Clinic
+                Global Healthcare Standards
               </h4>
               <p>
-                alteration in some form, by injected humour, or randomised words which don't look even slightly e sure there isn't anything
+                We are dedicated to creating a high-quality ambiance and fostering a positive work culture, with a steadfast commitment to serving society. Our goal is to alleviate human suffering by providing equitable healthcare services that meet global standards. Through our efforts, we strive to deliver the highest level of care and compassion to every individual, ensuring that our services contribute positively to the well-being of the community.
               </p>
-              <a href="">
-                Read More
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3">
-          <div class="box ">
-            <div class="img-box">
-              <img src="images/t4.png" alt="">
-            </div>
-            <div class="detail-box">
-              <h4>
-                Parental Care
-              </h4>
-              <p>
-                alteration in some form, by injected humour, or randomised words which don't look even slightly e sure there isn't anything
-              </p>
-              <a href="">
-                Read More
-              </a>
             </div>
           </div>
         </div>
@@ -447,7 +420,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Our <span>Doctors</span>
+          Our <span>Trustee Details</span>
         </h2>
       </div>
       <div class="carousel-wrap ">
@@ -552,7 +525,7 @@
     <div class="container">
       <div class="heading_container">
         <h2>
-          <span>Testimonial</span>
+          <span>Vision</span>
         </h2>
       </div>
     </div>
@@ -699,19 +672,19 @@
               <a href="">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>
-                  Location
+                  Lilavanti Educational & Medical Charitable Trust
                 </span>
               </a>
               <a href="">
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
-                  Call +01 1234567890
+                  8866320893/9429040878
                 </span>
               </a>
               <a href="">
                 <i class="fa fa-envelope"></i>
                 <span>
-                  demo@gmail.com
+                  info@lilavanti.org
                 </span>
               </a>
             </div>
@@ -743,13 +716,13 @@
                   About
                 </a>
                 <a href="treatment.html">
-                  Treatment
+                  Mission
                 </a>
                 <a href="doctor.html">
-                  Doctors
+                  Trustee Details
                 </a>
                 <a href="testimonial.html">
-                  Testimonial
+                  Vision
                 </a>
                 <a href="contact.html">
                   Contact us
