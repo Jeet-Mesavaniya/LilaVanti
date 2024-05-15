@@ -1,3 +1,7 @@
+:root {
+  --primary-color: #049cde;
+  --secondary-color: #f15b5c;
+}
 body {
   font-family: 'Roboto', sans-serif;
   color: #0c0c0c;
@@ -400,9 +404,11 @@ a:focus {
   text-transform: uppercase;
   margin-bottom: 25px;
 }
-
+/* here */
 .slider_section .detail-box h1 span {
-  color: #049cde;
+  color: var(--primary-color);
+  
+
 }
 
 .slider_section .detail-box p {
@@ -1128,5 +1134,13 @@ a:focus {
 
 .footer_section p a {
   color: inherit;
+}
+.more-text {
+  display: none;
+}
+.read-more-button {
+  color: #f15b5c;
+  cursor: pointer;
+  text-decoration: underline;
 }
 /*# sourceMappingURL=style.css.map */

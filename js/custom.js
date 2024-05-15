@@ -44,3 +44,16 @@ $('.team_carousel').owlCarousel({
         }
     }
 })
+
+function toggleReadMore() {
+    var moreText = document.querySelector('.more-text');
+    var readMoreButton = document.querySelector('.read-more-button');
+    
+    if (moreText.style.display === "none") {
+        moreText.style.display = "inline";
+        readMoreButton.textContent = "Read less...";
+    } else {
+        moreText.style.display = "none";
+        readMoreButton.textContent = "Read more...";
+    }
+}

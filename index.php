@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Mico</title>
+  <title>LilaVanti</title>
 
 
   <!-- bootstrap core css -->
@@ -140,17 +140,19 @@
                   <div class="detail-box">
                     <div class="play_btn">
                       <button>
-                        <i class="fa fa-play" aria-hidden="true"></i>
+                        <img src="images/icons8-education-80.png" alt="Icon description"></i>
                       </button>
                     </div>
+                    <!-- 1st -->
                     <h1>
-                      Mico <br>
+                        LilaVanti <br>
                       <span>
-                        Hospital
+                        Education & Medical Cheritable Trust
                       </span>
                     </h1>
                     <p>
-                      when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to
+                        This trust was established on 20th July 2022 by its founder, Kishan Vora. The primary focus of this trust is to identify and enhance the existing skills among students, sharpening these skills and cultivating their strengths. With a fundamental aim centered around skill-based development, the trust operates mainly in two crucial areas: education and healthcare. 
+                        <span class="more-text">In the present era, these two basic necessities are essential for the well-being and advancement of individuals. The trust endeavors to provide these vital amenities to as many people as possible, ensuring that education and healthcare are accessible and of high quality. Through its initiatives, the trust aims to empower individuals, foster community growth, and contribute to the overall development of society.</span> <span class="read-more-button" onclick="toggleReadMore()">Read more...</span>
                     </p>
                     <a href="">
                       Contact Us
@@ -160,6 +162,7 @@
                 <div class="col-md-6">
                   <div class="img-box">
                     <img src="images/slider-img.jpg" alt="">
+                    
                   </div>
                 </div>
               </div>
@@ -172,17 +175,19 @@
                   <div class="detail-box">
                     <div class="play_btn">
                       <button>
-                        <i class="fa fa-play" aria-hidden="true"></i>
+                        <!-- <i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> -->
+                        <img src="images/icons8-education-80.png" alt="Icon description"></i>
                       </button>
                     </div>
+                    <!-- 2nd -->
                     <h1>
-                      Mico <br>
+                        LilaVanti <br>
                       <span>
-                        Hospital
+                        Education Trust
                       </span>
                     </h1>
                     <p>
-                      when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to
+                      In today's dynamic world, education is not merely a privilege but a fundamental right. Our trust endeavors to make quality education accessible to all, regardless of their background or circumstances. Through innovative programs and initiatives, we strive to equip students with the knowledge, skills, and mindset needed to thrive in an ever-evolving landscape.
                     </p>
                     <a href="">
                       Contact Us
@@ -191,7 +196,7 @@
                 </div>
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="images/slider-img.jpg" alt="">
+                    <img src="images/kids-canva.png" alt="">
                   </div>
                 </div>
               </div>
@@ -204,17 +209,19 @@
                   <div class="detail-box">
                     <div class="play_btn">
                       <button>
-                        <i class="fa fa-play" aria-hidden="true"></i>
+                        <!-- <i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> -->
+                        <img src="images/icons8-education-50.png" alt="Icon description"></i>
                       </button>
                     </div>
+                    <!-- 3rd -->
                     <h1>
-                      Mico <br>
+                      LilaVanti <br>
                       <span>
-                        Hospital
+                        Medical Trust
                       </span>
                     </h1>
                     <p>
-                      when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to
+                      Lilavanti is dedicated to ensuring equitable access to medical services of global standards. We aim to alleviate human suffering and promote a culture of wellness by providing comprehensive healthcare solutions to those in need.
                     </p>
                     <a href="">
                       Contact Us
