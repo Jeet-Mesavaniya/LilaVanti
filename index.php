@@ -101,25 +101,7 @@
                   </li>
                 </ul>
               </div>
-              <div class="quote_btn-container">
-                <a href="">
-                  <i class="fa fa-user" aria-hidden="true"></i>
-                  <span>
-                    Login
-                  </span>
-                </a>
-                <a href="">
-                  <i class="fa fa-user" aria-hidden="true"></i>
-                  <span>
-                    Sign Up
-                  </span>
-                </a>
-                <form class="form-inline">
-                  <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
-                    <i class="fa fa-search" aria-hidden="true"></i>
-                  </button>
-                </form>
-              </div>
+              
             </div>
           </nav>
         </div>
@@ -128,9 +110,7 @@
     <!-- end header section -->
     <!-- slider section -->
     <section class="slider_section ">
-      <div class="dot_design">
-        <img src="images/dots.png" alt="">
-      </div>
+
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -150,10 +130,7 @@
                         Education & Medical Cheritable Trust
                       </span>
                     </h1>
-                    <p>
-                        This trust was established on 20th July 2022 by its founder, Kishan Vora. The primary focus of this trust is to identify and enhance the existing skills among students, sharpening these skills and cultivating their strengths. With a fundamental aim centered around skill-based development, the trust operates mainly in two crucial areas: education and healthcare. 
-                        <span class="more-text">In the present era, these two basic necessities are essential for the well-being and advancement of individuals. The trust endeavors to provide these vital amenities to as many people as possible, ensuring that education and healthcare are accessible and of high quality. Through its initiatives, the trust aims to empower individuals, foster community growth, and contribute to the overall development of society.</span> <span class="read-more-button" onclick="toggleReadMore()">Read more...</span>
-                    </p>
+                   
                     <a href="">
                       Contact Us
                     </a>
@@ -256,63 +233,6 @@
 
   <!-- book section -->
 
-  <section class="book_section layout_padding">
-    <div class="container">
-      <div class="row">
-        <div class="col">
-          <form>
-            <h4>
-              BOOK <span>APPOINTMENT</span>
-            </h4>
-            <div class="form-row ">
-              <div class="form-group col-lg-4">
-                <label for="inputPatientName">Patient Name </label>
-                <input type="text" class="form-control" id="inputPatientName" placeholder="">
-              </div>
-              <div class="form-group col-lg-4">
-                <label for="inputDoctorName">Doctor's Name</label>
-                <select name="" class="form-control wide" id="inputDoctorName">
-                  <option value="Normal distribution ">Normal distribution </option>
-                  <option value="Normal distribution ">Normal distribution </option>
-                  <option value="Normal distribution ">Normal distribution </option>
-                </select>
-              </div>
-              <div class="form-group col-lg-4">
-                <label for="inputDepartmentName">Department's Name</label>
-                <select name="" class="form-control wide" id="inputDepartmentName">
-                  <option value="Normal distribution ">Normal distribution </option>
-                  <option value="Normal distribution ">Normal distribution </option>
-                  <option value="Normal distribution ">Normal distribution </option>
-                </select>
-              </div>
-            </div>
-            <div class="form-row ">
-              <div class="form-group col-lg-4">
-                <label for="inputPhone">Phone Number</label>
-                <input type="number" class="form-control" id="inputPhone" placeholder="XXXXXXXXXX">
-              </div>
-              <div class="form-group col-lg-4">
-                <label for="inputSymptoms">Symptoms</label>
-                <input type="text" class="form-control" id="inputSymptoms" placeholder="">
-              </div>
-              <div class="form-group col-lg-4">
-                <label for="inputDate">Choose Date </label>
-                <div class="input-group date" id="inputDate" data-date-format="mm-dd-yyyy">
-                  <input type="text" class="form-control" readonly>
-                  <span class="input-group-addon date_icon">
-                    <i class="fa fa-calendar" aria-hidden="true"></i>
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div class="btn-box">
-              <button type="submit" class="btn ">Submit Now</button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
 
 
   <!-- end book section -->
@@ -325,22 +245,21 @@
       <div class="row">
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/thinking.png" alt="">
           </div>
         </div>
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                About <span>Hospital</span>
+                About <span>LILAVANTI</span>
               </h2>
             </div>
             <p>
-              has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors
+                This trust was established on 20th July 2022 by its founder, Kishan Vora. The primary focus of this trust is to identify and enhance the existing skills among students, sharpening these skills and cultivating their strengths. With a fundamental aim centered around skill-based development, the trust operates mainly in two crucial areas: education and healthcare. 
+                <span class="more-text">In the present era, these two basic necessities are essential for the well-being and advancement of individuals. The trust endeavors to provide these vital amenities to as many people as possible, ensuring that education and healthcare are accessible and of high quality. Through its initiatives, the trust aims to empower individuals, foster community growth, and contribute to the overall development of society.</span> 
+                <span class="read-more-button" onclick="toggleReadMore()">Read more...</span>
             </p>
-            <a href="">
-              Read More
-            </a>
           </div>
         </div>
       </div>
@@ -353,9 +272,6 @@
   <!-- treatment section -->
 
   <section class="treatment_section layout_padding">
-    <div class="side_img">
-      <img src="images/treatment-side-img.jpg" alt="">
-    </div>
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
@@ -363,7 +279,7 @@
         </h2>
       </div>
       <div class="row">
-        <div class="col-md-6 col-lg-3">
+        <div class="col-md-6 col-lg-4">
           <div class="box ">
             <div class="img-box">
               <img src="images/t1.png" alt="">
@@ -378,7 +294,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3">
+        <div class="col-md-6 col-lg-4">
           <div class="box ">
             <div class="img-box">
               <img src="images/t2.png" alt="">
@@ -393,7 +309,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3">
+        <div class="col-md-6 col-lg-4">
           <div class="box ">
             <div class="img-box">
               <img src="images/t3.png" alt="">
@@ -744,45 +660,7 @@
   <!-- end client section -->
 
   <!-- contact section -->
-  <section class="contact_section layout_padding-bottom">
-    <div class="container">
-      <div class="heading_container">
-        <h2>
-          Get In Touch
-        </h2>
-      </div>
-      <div class="row">
-        <div class="col-md-7">
-          <div class="form_container">
-            <form action="">
-              <div>
-                <input type="text" placeholder="Full Name" />
-              </div>
-              <div>
-                <input type="email" placeholder="Email" />
-              </div>
-              <div>
-                <input type="text" placeholder="Phone Number" />
-              </div>
-              <div>
-                <input type="text" class="message-box" placeholder="Message" />
-              </div>
-              <div class="btn_box">
-                <button>
-                  SEND
-                </button>
-              </div>
-            </form>
-          </div>
-        </div>
-        <div class="col-md-5">
-          <div class="img-box">
-            <img src="images/contact-img.jpg" alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+
   <!-- end contact section -->
 
   <!-- info section -->
@@ -793,14 +671,6 @@
           <a href="">
             <img src="images/logo.png" alt="">
           </a>
-        </div>
-        <div class="info_form">
-          <form action="">
-            <input type="email" placeholder="Your email">
-            <button>
-              Subscribe
-            </button>
-          </form>
         </div>
       </div>
       <div class="info_bottom layout_padding2">
@@ -871,55 +741,8 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="info_post">
-              <h5>
-                LATEST POSTS
-              </h5>
-              <div class="post_box">
-                <div class="img-box">
-                  <img src="images/post1.jpg" alt="">
-                </div>
-                <p>
-                  Normal
-                  distribution
-                </p>
-              </div>
-              <div class="post_box">
-                <div class="img-box">
-                  <img src="images/post2.jpg" alt="">
-                </div>
-                <p>
-                  Normal
-                  distribution
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="info_post">
-              <h5>
-                News
-              </h5>
-              <div class="post_box">
-                <div class="img-box">
-                  <img src="images/post3.jpg" alt="">
-                </div>
-                <p>
-                  Normal
-                  distribution
-                </p>
-              </div>
-              <div class="post_box">
-                <div class="img-box">
-                  <img src="images/post4.png" alt="">
-                </div>
-                <p>
-                  Normal
-                  distribution
-                </p>
-              </div>
-            </div>
+          <div class="col-md-12 col-lg-6">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14849.93146504011!2d70.3956263!3d21.4887985!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3957ff1009c46b21%3A0xbd90c4e9ed134965!2sSorath%20International%20School!5e0!3m2!1sen!2sin!4v1715879853559!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
       </div>
@@ -932,8 +755,7 @@
   <footer class="footer_section">
     <div class="container">
       <p>
-        &copy; <span id="displayYear"></span> All Rights Reserved By
-        <a href="https://html.design/">Free Html Templates</a>
+        Copyright &copy; <span id="displayYear"></span> All Rights Reserved By Lilavanti Trust.
       </p>
     </div>
   </footer>
