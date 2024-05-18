@@ -12,7 +12,8 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Mico</title>
+  <title>Lilavanti</title>
+  <link rel="icon" type="image/x-icon" href="images/logo.png">
 
 
   <!-- bootstrap core css -->
@@ -42,35 +43,35 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <div class="header_top">
-        <div class="container">
-          <div class="contact_nav">
-            <a href="">
-              <i class="fa fa-phone" aria-hidden="true"></i>
-              <span>
-                8866320893/9429040878
-              </span>
-            </a>
-            <a href="">
-              <i class="fa fa-envelope" aria-hidden="true"></i>
-              <span>
-                info@lilavanti.org
-              </span>
-            </a>
-            <a href="">
-              <i class="fa fa-map-marker" aria-hidden="true"></i>
-              <span>
-                Lilavanti Educational & Medical Charitable Trust
-              </span>
-            </a>
+      <div class="header_top header_top_contact">
+          <div class="container ">
+            <div class="contact_nav">
+              <a href="">
+                <i class="fa fa-phone" aria-hidden="true"></i>
+                <span class="gray-color">
+                  8866320893 | 9429040878
+                </span>
+              </a>
+              <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
+                <i class="fa fa-envelope" aria-hidden="true"></i>
+                <span class="gray-color">
+                  info@lilavanti.org
+                </span>
+              </a>
+              <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                <span class="gray-color">
+                  Lilavanti Educational & Medical Charitable Trust
+                </span>
+              </a>
+            </div>
           </div>
         </div>
-      </div>
       <div class="header_bottom">
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg custom_nav-container ">
             <a class="navbar-brand" href="index.php">
-              <img src="images/logo.png" alt="">
+              <img src="images/Lilavanti-logo.png" alt="">
             </a>
             </a>
 
@@ -84,24 +85,23 @@
                   <li class="nav-item ">
                     <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                   </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="about.html"> About</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="treatment.html">Mission</a>
-                  </li>
                   <li class="nav-item active">
-                    <a class="nav-link" href="doctor.html">Trustee Details</a>
+                    <a class="nav-link" href="about.php"> About</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="testimonial.html">Vision</a>
+                    <a class="nav-link" href="mission.php">Mission</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact Us</a>
+                    <a class="nav-link" href="Trustee.php">Trustee Details</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="vision.php">Vision</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#ContactSection">Contact Us</a>
                   </li>
                 </ul>
               </div>
-            </div>
           </nav>
         </div>
       </div>
@@ -109,120 +109,52 @@
     <!-- end header section -->
   </div>
 
-  <!-- team section -->
 
-  <section class="team_section layout_padding">
-    <div class="container">
-      <div class="heading_container heading_center">
-        <h2>
-          Our <span>Trustee Details</span>
-        </h2>
-      </div>
-      <div class="carousel-wrap ">
-        <div class="owl-carousel team_carousel">
-          <div class="item">
-            <div class="box">
-              <div class="img-box">
-                <img src="images/team1.jpg" alt="" />
-              </div>
-              <div class="detail-box">
-                <h5>
-                  Hennry
-                </h5>
-                <h6>
-                  MBBS
-                </h6>
-                <div class="social_box">
-                  <a href="">
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                  </a>
-                  <a href="">
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                  </a>
-                  <a href="">
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                  </a>
-                  <a href="">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
+  <!-- about section -->
+
+  <section class="about_section layout_padding">
+    <div class="container  ">
+      <div class="row">
+        <div class="col-md-6 ">
+          <div class="img-box">
+            <img src="images/thinking.png" alt="">
           </div>
-          <div class="item">
-            <div class="box">
-              <div class="img-box">
-                <img src="images/team2.jpg" alt="" />
-              </div>
-              <div class="detail-box">
-                <h5>
-                  Jenni
-                </h5>
-                <h6>
-                  MBBS
-                </h6>
-                <div class="social_box">
-                  <a href="">
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                  </a>
-                  <a href="">
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                  </a>
-                  <a href="">
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                  </a>
-                  <a href="">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                  </a>
-                </div>
-              </div>
+        </div>
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h1>
+                About <span>LILAVANTI</span>
+              </h1>
             </div>
-          </div>
-          <div class="item">
-            <div class="box">
-              <div class="img-box">
-                <img src="images/team3.jpg" alt="" />
-              </div>
-              <div class="detail-box">
-                <h5>
-                  Morco
-                </h5>
-                <h6>
-                  MBBS
-                </h6>
-                <div class="social_box">
-                  <a href="">
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                  </a>
-                  <a href="">
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                  </a>
-                  <a href="">
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                  </a>
-                  <a href="">
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
+            <p>
+                This trust was established on 20th July 2022 by its founder, Kishan Vora. The primary focus of this trust is to identify and enhance the existing skills among students, sharpening these skills and cultivating their strengths. With a fundamental aim centered around skill-based development, the trust operates mainly in two crucial areas: education and healthcare. 
+                <br>
+                <br>
+                In the present era, these two basic necessities are essential for the well-being and advancement of individuals. The trust endeavors to provide these vital amenities to as many people as possible, ensuring that education and healthcare are accessible and of high quality. Through its initiatives, the trust aims to empower individuals, foster community growth, and contribute to the overall development of society.
+            </p>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- end team section -->
+  <!-- end about section -->
 
 
   <!-- info section -->
-  <section class="info_section ">
+  <section class="info_section " id="ContactSection">
     <div class="container">
       <div class="info_top">
         <div class="info_logo">
           <a href="">
             <img src="images/logo.png" alt="">
           </a>
+        </div>
+        <div class="info_logo">
+          <h1>
+            Contact Us
+          </h5>
         </div>
       </div>
       <div class="info_bottom layout_padding2">
@@ -275,26 +207,23 @@
                 <a href="index.php">
                   Home
                 </a>
-                <a href="about.html">
+                <a class="active" href="about.php">
                   About
                 </a>
-                <a href="treatment.html">
+                <a href="mission.php">
                   Mission
                 </a>
-                <a href="doctor.html" class="active">
+                <a href="Trustee.php">
                   Trustee Details
                 </a>
-                <a href="testimonial.html">
+                <a href="vision.php">
                   Vision
-                </a>
-                <a href="contact.html">
-                  Contact us
                 </a>
               </div>
             </div>
           </div>
           <div class="col-md-12 col-lg-6">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14849.93146504011!2d70.3956263!3d21.4887985!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3957ff1009c46b21%3A0xbd90c4e9ed134965!2sSorath%20International%20School!5e0!3m2!1sen!2sin!4v1715879853559!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29697.436421699702!2d70.41635121994254!3d21.500685905469695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3958012fadc60a55%3A0x55bef680aae3afbe!2slilavanti!5e0!3m2!1sen!2sin!4v1716021251726!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
       </div>

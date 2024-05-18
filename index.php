@@ -13,6 +13,7 @@
   <meta name="author" content="" />
 
   <title>LilaVanti</title>
+  <link rel="icon" type="image/x-icon" href="images/logo.png">
 
 
   <!-- bootstrap core css -->
@@ -42,24 +43,24 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <div class="header_top">
-        <div class="container">
+      <div class="header_top header_top_contact">
+        <div class="container ">
           <div class="contact_nav">
             <a href="">
               <i class="fa fa-phone" aria-hidden="true"></i>
-              <span>
-                8866320893/9429040878
+              <span class="gray-color">
+                8866320893 | 9429040878
               </span>
             </a>
-            <a href="">
+            <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
               <i class="fa fa-envelope" aria-hidden="true"></i>
-              <span>
+              <span class="gray-color">
                 info@lilavanti.org
               </span>
             </a>
-            <a href="">
+            <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
-              <span>
+              <span class="gray-color">
                 Lilavanti Educational & Medical Charitable Trust
               </span>
             </a>
@@ -70,10 +71,9 @@
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg custom_nav-container ">
             <a class="navbar-brand" href="index.php">
-              <img src="images/logo.png" alt="">
+              <img src="images/Lilavanti-logo.png" alt="">
             </a>
-
-
+            
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class=""> </span>
             </button>
@@ -85,19 +85,19 @@
                     <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about.html"> About</a>
+                    <a class="nav-link" href="about.php"> About</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="treatment.html">Mission</a>
+                    <a class="nav-link" href="mission.php">Mission</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="doctor.html">Trustee Details</a>
+                    <a class="nav-link" href="#aboutTrustee">Trustee Details</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="testimonial.html">Vision</a>
+                    <a class="nav-link" href="vision.php">Vision</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact Us</a>
+                    <a class="nav-link" href="#ContactSection">Contact Us</a>
                   </li>
                 </ul>
               </div>
@@ -131,7 +131,7 @@
                       </span>
                     </h1>
                    
-                    <a href="">
+                    <a href="#ContactSection" class="sec-color">
                       Contact Us
                     </a>
                   </div>
@@ -153,7 +153,7 @@
                     <div class="play_btn">
                       <button>
                         <!-- <i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> -->
-                        <img src="images/icons8-education-80.png" alt="Icon description"></i>
+                        <img src="images/icons8-education-50.png" alt="Icon description"></i>
                       </button>
                     </div>
                     <!-- 2nd -->
@@ -166,7 +166,7 @@
                     <p>
                       In today's dynamic world, education is not merely a privilege but a fundamental right. Our trust endeavors to make quality education accessible to all, regardless of their background or circumstances. Through innovative programs and initiatives, we strive to equip students with the knowledge, skills, and mindset needed to thrive in an ever-evolving landscape.
                     </p>
-                    <a href="">
+                    <a href="#ContactSection">
                       Contact Us
                     </a>
                   </div>
@@ -187,7 +187,7 @@
                     <div class="play_btn">
                       <button>
                         <!-- <i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> -->
-                        <img src="images/icons8-education-50.png" alt="Icon description"></i>
+                        <img src="images/icons8-education-80.png" alt="Icon description"></i>
                       </button>
                     </div>
                     <!-- 3rd -->
@@ -200,7 +200,7 @@
                     <p>
                       Lilavanti is dedicated to ensuring equitable access to medical services of global standards. We aim to alleviate human suffering and promote a culture of wellness by providing comprehensive healthcare solutions to those in need.
                     </p>
-                    <a href="">
+                    <a href="#ContactSection">
                       Contact Us
                     </a>
                   </div>
@@ -243,8 +243,8 @@
   <section class="about_section">
     <div class="container  ">
       <div class="row">
-        <div class="col-md-6 ">
-          <div class="img-box">
+        <div class="col-md-6 mt-3">
+          <div class="img-box about-img-home">
             <img src="images/thinking.png" alt="">
           </div>
         </div>
@@ -335,27 +335,27 @@
 
   <!-- team section -->
 
-  <section class="team_section layout_padding">
+  <section class="team_section layout_padding" id="aboutTrustee">
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Our <span>Trustee Details</span>
+        <span class="sec-color"> Our </span> <span>Trustee Details</span>
         </h2>
       </div>
       <div class="carousel-wrap ">
         <div class="owl-carousel team_carousel">
+         
+          <!-- trustee 1 -->
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <img src="images/team1.jpg" alt="" />
+              <a href="Trustee.php#trusteeKISHANBHAI">
+                <img id="aboutImage" src="images/KishanVora-Photo.jpg"   alt="" />
+              </a>
               </div>
               <div class="detail-box">
-                <h5>
-                  Hennry
-                </h5>
-                <h6>
-                  MBBS
-                </h6>
+                <h5> <span class="sec-color"> SHRI KISHANBHAI VORA </span></h5>
+                <h6> <span class="gray-color"> FOUNDER/PRESIDENT </span></h6>
                 <div class="social_box">
                   <a href="">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
@@ -373,18 +373,19 @@
               </div>
             </div>
           </div>
+          <!-- trustee 1 end -->
+    
+          <!-- trustee 2 -->
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <img src="images/team2.jpg" alt="" />
+                <a href="Trustee.php#trusteeALKA">
+                  <img src="images/Alkaben-Photo.jpg" alt="" />
+                </a>
               </div>
               <div class="detail-box">
-                <h5>
-                  Jenni
-                </h5>
-                <h6>
-                  MBBS
-                </h6>
+                <h5>ALKA K VORA</h5>
+                <h6>SECRETARY</h6>
                 <div class="social_box">
                   <a href="">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
@@ -402,18 +403,19 @@
               </div>
             </div>
           </div>
+          <!-- trustee 2 end -->
+          
+          <!-- trustee 3 -->
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <img src="images/team3.jpg" alt="" />
+                <a href="Trustee.php#trusteeAmiben">
+                  <img src="images/AmiBhatt-Photo.jpg" alt="" />
+                </a>
               </div>
               <div class="detail-box">
-                <h5>
-                  Morco
-                </h5>
-                <h6>
-                  MBBS
-                </h6>
+                <h5>SHRI AMIBEN BHATT</h5>
+                <h6>TREASURER</h6>
                 <div class="social_box">
                   <a href="">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
@@ -431,6 +433,126 @@
               </div>
             </div>
           </div>
+          <!-- trustee 3 end -->
+
+          <!-- trustee 4 -->
+          <div class="item">
+            <div class="box">
+              <div class="img-box">
+                <a href="Trustee.php#trusteeDENISHBHAI">
+                  <img src="images/DenishVyas-Photo.jpg" alt="" />
+                </a>
+              </div>
+              <div class="detail-box">
+                <h5>SHRI DENISHBHAI VYAS</h5>
+                <h6>VICE-PRESEDENT</h6>
+                <div class="social_box">
+                  <a href="">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- trustee 4 end -->
+
+          <!-- trustee 5 -->
+          <div class="item">
+            <div class="box">
+              <div class="img-box">
+                <a href="Trustee.php#trusteeSAVALIYA">
+                  <img src="images/Dhanjibhai-Photo.jpg" alt="" />
+                </a>
+              </div>
+              <div class="detail-box">
+                <h5>SHRI DR. D P SAVALIYA </h5>
+                <h6>TRUSTEE</h6>
+                <div class="social_box">
+                  <a href="">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- trustee 5 end -->
+          <!-- trustee 6 -->
+          <div class="item">
+            <div class="box">
+              <div class="img-box">
+                <a href="Trustee.php#trusteeSEJALBEN">
+                  <img src="images/SejalMesia-Photo.jpg" alt="" />
+                </a>
+              </div>
+              <div class="detail-box">
+                <h5>SHRI SEJALBEN TRIVEDI</h5>
+                <h6>TRUSTEE</h6>
+                <div class="social_box">
+                  <a href="">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- trustee 6 end -->
+          <!-- trustee 7 -->
+          <div class="item">
+            <div class="box">
+              <div class="img-box">
+                <a href="Trustee.php#trusteeSUNILBHAI">
+                  <img src="images/SunilBhatt-Photo.jpg" alt="" />
+                </a>
+              </div>
+              <div class="detail-box">
+                <h5>SHRI SUNILBHAI BHATT </h5>
+                <h6>TRUSTEE</h6>
+                <div class="social_box">
+                  <a href="">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                  </a>
+                  <a href="">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- trustee 7 end -->
+
         </div>
       </div>
     </div>
@@ -667,13 +789,18 @@
   <!-- end contact section -->
 
   <!-- info section -->
-  <section class="info_section ">
+  <section class="info_section " id="ContactSection">
     <div class="container">
       <div class="info_top">
         <div class="info_logo">
           <a href="">
             <img src="images/logo.png" alt="">
           </a>
+        </div>
+        <div class="info_logo">
+          <h1>
+            Contact Us
+          </h5>
         </div>
       </div>
       <div class="info_bottom layout_padding2">
@@ -726,26 +853,23 @@
                 <a class="active" href="index.php">
                   Home
                 </a>
-                <a href="about.html">
+                <a href="about.php">
                   About
                 </a>
-                <a href="treatment.html">
+                <a href="mission.php">
                   Mission
                 </a>
-                <a href="doctor.html">
+                <a href="Trustee.php">
                   Trustee Details
                 </a>
-                <a href="testimonial.html">
+                <a href="vision.php">
                   Vision
-                </a>
-                <a href="contact.html">
-                  Contact us
                 </a>
               </div>
             </div>
           </div>
           <div class="col-md-12 col-lg-6">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14849.93146504011!2d70.3956263!3d21.4887985!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3957ff1009c46b21%3A0xbd90c4e9ed134965!2sSorath%20International%20School!5e0!3m2!1sen!2sin!4v1715879853559!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29697.436421699702!2d70.41635121994254!3d21.500685905469695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3958012fadc60a55%3A0x55bef680aae3afbe!2slilavanti!5e0!3m2!1sen!2sin!4v1716021251726!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
       </div>
