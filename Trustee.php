@@ -42,7 +42,7 @@
     <div class="header_top header_top_contact">
         <div class="container ">
           <div class="contact_nav">
-            <a href="">
+            <a>
               <i class="fa fa-phone" aria-hidden="true"></i>
               <span class="gray-color">
                 8866320893 | 9429040878
@@ -132,12 +132,12 @@
               <br><br>
               Due to his extraordinary abilities and altruistic nature, Kishanbhai is the ideal founder and president of this trust.
             </p>
-            <div class="social_box">
+            <!-- <div class="social_box">
               <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!-- trustee 1 end -->
@@ -157,12 +157,12 @@
               <br><br>
               Alka's message to society resonates with her strong work ethic: "When I work, I work with unwavering dedication. Hence, I seek to collaborate with individuals who share this commitment, as I rely on it from everyone." Her dedication serves as an inspiration for all, reflecting a steadfast commitment to making a meaningful difference.
             </p>
-            <div class="social_box">
+            <!-- <div class="social_box">
               <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!-- trustee 2 end -->
@@ -182,12 +182,12 @@
               <br><br>
               Her leadership exemplifies the essence of the quote, inspiring others to break free from self-imposed limitations and strive for excellence. In her capable hands, the trust continues to make strides, transforming lives and communities with each endeavor.
             </p>
-            <div class="social_box">
+            <!-- <div class="social_box">
               <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!-- trustee 3 end -->
@@ -205,12 +205,12 @@
               <br><br>
               Denishbhai's vision resonates with the understanding that education extends beyond classroom obligations, empowering individuals to comprehend and engage with the complexities of the world around them. Through his dedicated stewardship, the trust endeavors to cultivate a generation of learners equipped to navigate society with discernment and purpose, contributing meaningfully to the betterment of our collective future.
             </p>
-            <div class="social_box">
+            <!-- <div class="social_box">
               <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!-- trustee 4 end -->
@@ -232,12 +232,12 @@
               <br><br>
               Reconnecting with the holistic paradigm under Dr. Savaliya's guidance reminds us that true health is not just about the absence of illness but about cultivating a balanced and integrated lifestyle that nurtures every aspect of our being."
             </p>
-            <div class="social_box">
+            <!-- <div class="social_box">
               <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!-- trustee 5 end -->
@@ -257,12 +257,12 @@
               <br><br>
               Sejalben Trivedi's vision underscores the importance of empowering minds to think autonomously, to challenge convention, and to pave their own path towards enlightenment. Through her dedication to this principle, she not only enriches the educational experience but also cultivates a generation of thinkers equipped to navigate the complexities of the world with clarity and conviction."
             </p>
-            <div class="social_box">
+            <!-- <div class="social_box">
               <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!-- trustee 6 end -->
@@ -283,12 +283,12 @@
               <br><br>
               Sunilbhai's wisdom underscores the interconnectedness of mind, body, and environment, highlighting the importance of harmonizing these elements for enduring health and vitality. Through his steadfast advocacy for adaptive wellness practices, he inspires individuals to cultivate a balanced and resilient approach to life, ensuring that they not only survive but thrive in the face of adversity."
             </p>
-            <div class="social_box">
+            <!-- <div class="social_box">
               <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <!-- trustee 7 end -->
@@ -318,15 +318,17 @@
           <div class="col-md-6 col-lg-3">
             <h5>Address</h5>
             <div class="info_contact">
-              <a href="">
+              <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>Lilavanti Educational & Medical Charitable Trust</span>
               </a>
-              <a href="">
+              <a>
                 <i class="fa fa-phone" aria-hidden="true"></i>
-                <span>8866320893/9429040878</span>
+                <span>
+                  8866320893 | 9429040878
+                </span>
               </a>
-              <a href="">
+              <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
                 <i class="fa fa-envelope"></i>
                 <span>info@lilavanti.org</span>
               </a>

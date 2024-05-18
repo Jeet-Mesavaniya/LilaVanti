@@ -46,7 +46,7 @@
       <div class="header_top header_top_contact">
         <div class="container ">
           <div class="contact_nav">
-            <a href="">
+            <a>
               <i class="fa fa-phone" aria-hidden="true"></i>
               <span class="gray-color">
                 8866320893 | 9429040878
@@ -356,7 +356,7 @@
               <div class="detail-box">
                 <h5> <span class="sec-color"> SHRI KISHANBHAI VORA </span></h5>
                 <h6> <span class="gray-color"> FOUNDER/PRESIDENT </span></h6>
-                <div class="social_box">
+                <!-- <div class="social_box">
                   <a href="">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
@@ -369,7 +369,7 @@
                   <a href="">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -386,7 +386,7 @@
               <div class="detail-box">
                 <h5>ALKA K VORA</h5>
                 <h6>SECRETARY</h6>
-                <div class="social_box">
+                <!-- <div class="social_box">
                   <a href="">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
@@ -399,7 +399,7 @@
                   <a href="">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -416,7 +416,7 @@
               <div class="detail-box">
                 <h5>SHRI AMIBEN BHATT</h5>
                 <h6>TREASURER</h6>
-                <div class="social_box">
+                <!-- <div class="social_box">
                   <a href="">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
@@ -429,7 +429,7 @@
                   <a href="">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -446,7 +446,7 @@
               <div class="detail-box">
                 <h5>SHRI DENISHBHAI VYAS</h5>
                 <h6>VICE-PRESEDENT</h6>
-                <div class="social_box">
+                <!-- <div class="social_box">
                   <a href="">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
@@ -459,7 +459,7 @@
                   <a href="">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -476,7 +476,7 @@
               <div class="detail-box">
                 <h5>SHRI DR. D P SAVALIYA </h5>
                 <h6>TRUSTEE</h6>
-                <div class="social_box">
+                <!-- <div class="social_box">
                   <a href="">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
@@ -489,7 +489,7 @@
                   <a href="">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -505,7 +505,7 @@
               <div class="detail-box">
                 <h5>SHRI SEJALBEN TRIVEDI</h5>
                 <h6>TRUSTEE</h6>
-                <div class="social_box">
+                <!-- <div class="social_box">
                   <a href="">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
@@ -518,7 +518,7 @@
                   <a href="">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -534,7 +534,7 @@
               <div class="detail-box">
                 <h5>SHRI SUNILBHAI BHATT </h5>
                 <h6>TRUSTEE</h6>
-                <div class="social_box">
+                <!-- <div class="social_box">
                   <a href="">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
@@ -547,7 +547,7 @@
                   <a href="">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -810,19 +810,19 @@
               Address
             </h5>
             <div class="info_contact">
-              <a href="">
+              <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>
                   Lilavanti Educational & Medical Charitable Trust
                 </span>
               </a>
-              <a href="">
+              <a>
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
-                  8866320893/9429040878
+                  8866320893 | 9429040878
                 </span>
               </a>
-              <a href="">
+              <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
                 <i class="fa fa-envelope"></i>
                 <span>
                   info@lilavanti.org
