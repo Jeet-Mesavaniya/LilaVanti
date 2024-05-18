@@ -281,46 +281,49 @@
       <div class="row">
         <div class="col-md-6 col-lg-4">
           <div class="box ">
-            <div class="img-box">
+            <!-- <div class="img-box">
               <img src="images/t1.png" alt="">
-            </div>
+            </div> -->
             <div class="detail-box">
               <h4>
                 Quality education
               </h4>
-              <p>
-              Our mission is to reconstruct and redevelop the skills of individuals. To achieve this noble goal, we are dedicated to providing high-quality education, expert consultancy, and comprehensive training programs. By empowering people with the necessary knowledge and skills, we aim to foster personal growth and contribute to the overall development of our society.
+              <p style = "margin-bottom: 0;">
+                Our mission is to reconstruct and redevelop the skills of individuals. To achieve this noble goal, we are dedicated to providing high-quality education, expert consultancy, <span id="dots">...</span><span id="more" style= "display:none"> and comprehensive training programs. By empowering people with the necessary knowledge and skills, we aim to foster personal growth and contribute to the overall development of our society.</span>
               </p>
+              <span onclick="myFunction(dots, more, mybtn)" id= "mybtn" class="read-more-button">Read more</span>
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-4">
           <div class="box ">
-            <div class="img-box">
+            <!-- <div class="img-box">
               <img src="images/t2.png" alt="">
-            </div>
+            </div> -->
             <div class="detail-box">
               <h4>
                 Empowerment
               </h4>
-              <p>
-                We are committed to fostering independent critical thinking and socio-scientific competence, building the capacity to empower learners in achieving their professional and social goals. Our aim is to enhance the quality of life in harmony with cultural values by providing enriching learning opportunities. We are dedicated to the inculcation of the highest human values, ensuring that our educational programs not only impart knowledge but also promote ethical and moral development.
+              <p style = "margin-bottom: 0;">
+                We are committed to fostering independent critical thinking and socio-scientific competence, building the capacity to empower learners in achieving their professional <span id="dots1">...</span><span id="more1" style= "display:none"> and social goals. Our aim is to enhance the quality of life in harmony with cultural values by providing enriching learning opportunities. We are dedicated to the inculcation of the highest human values, ensuring that our educational programs not only impart knowledge but also promote ethical and moral development.</span>
               </p>
+              <span onclick="myFunction(dots1, more1, mybtn1)" id= "mybtn1" class="read-more-button">Read more</span>
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-4">
           <div class="box ">
-            <div class="img-box">
-              <img src="images/t3.png" alt="">
-            </div>
+            <!-- <div class="img-box" width = "65px">
+              <img src="images/t3.png" alt="" width = "65px">
+            </div> -->
             <div class="detail-box">
               <h4>
                 Global Healthcare Standards
               </h4>
-              <p>
-                We are dedicated to creating a high-quality ambiance and fostering a positive work culture, with a steadfast commitment to serving society. Our goal is to alleviate human suffering by providing equitable healthcare services that meet global standards. Through our efforts, we strive to deliver the highest level of care and compassion to every individual, ensuring that our services contribute positively to the well-being of the community.
+              <p style = "margin-bottom: 0;">
+                We are dedicated to creating a high-quality ambiance and fostering a positive work culture, with a steadfast commitment to serving society. Our goal is to <span id="dots2">...</span><span id="more2" style= "display:none"> alleviate human suffering by providing equitable healthcare services that meet global standards. Through our efforts, we strive to deliver the highest level of care and compassion to every individual, ensuring that our services contribute positively to the well-being of the community.</span>
               </p>
+              <span onclick="myFunction(dots2, more2, mybtn2)" id= "mybtn2" class="read-more-button">Read more</span>
             </div>
           </div>
         </div>
