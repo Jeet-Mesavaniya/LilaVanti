@@ -147,7 +147,7 @@
     <div class="container">
       <div class="info_top">
         <div class="info_logo">
-          <a href="">
+          <a >
             <img src="images/logo.png" alt="">
           </a>
         </div>
@@ -184,16 +184,16 @@
               </a>
             </div>
             <div class="social_box">
-              <a href="">
+              <a >
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a >
                 <i class="fa fa-twitter" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a >
                 <i class="fa fa-linkedin" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a >
                 <i class="fa fa-instagram" aria-hidden="true"></i>
               </a>
             </div>

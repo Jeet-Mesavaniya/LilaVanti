@@ -133,10 +133,10 @@
               Due to his extraordinary abilities and altruistic nature, Kishanbhai is the ideal founder and president of this trust.
             </p>
             <!-- <div class="social_box">
-              <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
           </div>
         </div>
@@ -158,10 +158,10 @@
               Alka's message to society resonates with her strong work ethic: "When I work, I work with unwavering dedication. Hence, I seek to collaborate with individuals who share this commitment, as I rely on it from everyone." Her dedication serves as an inspiration for all, reflecting a steadfast commitment to making a meaningful difference.
             </p>
             <!-- <div class="social_box">
-              <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
           </div>
         </div>
@@ -183,10 +183,10 @@
               Her leadership exemplifies the essence of the quote, inspiring others to break free from self-imposed limitations and strive for excellence. In her capable hands, the trust continues to make strides, transforming lives and communities with each endeavor.
             </p>
             <!-- <div class="social_box">
-              <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
           </div>
         </div>
@@ -206,10 +206,10 @@
               Denishbhai's vision resonates with the understanding that education extends beyond classroom obligations, empowering individuals to comprehend and engage with the complexities of the world around them. Through his dedicated stewardship, the trust endeavors to cultivate a generation of learners equipped to navigate society with discernment and purpose, contributing meaningfully to the betterment of our collective future.
             </p>
             <!-- <div class="social_box">
-              <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
           </div>
         </div>
@@ -233,10 +233,10 @@
               Reconnecting with the holistic paradigm under Dr. Savaliya's guidance reminds us that true health is not just about the absence of illness but about cultivating a balanced and integrated lifestyle that nurtures every aspect of our being."
             </p>
             <!-- <div class="social_box">
-              <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
           </div>
         </div>
@@ -258,10 +258,10 @@
               Sejalben Trivedi's vision underscores the importance of empowering minds to think autonomously, to challenge convention, and to pave their own path towards enlightenment. Through her dedication to this principle, she not only enriches the educational experience but also cultivates a generation of thinkers equipped to navigate the complexities of the world with clarity and conviction."
             </p>
             <!-- <div class="social_box">
-              <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
           </div>
         </div>
@@ -284,10 +284,10 @@
               Sunilbhai's wisdom underscores the interconnectedness of mind, body, and environment, highlighting the importance of harmonizing these elements for enduring health and vitality. Through his steadfast advocacy for adaptive wellness practices, he inspires individuals to cultivate a balanced and resilient approach to life, ensuring that they not only survive but thrive in the face of adversity."
             </p>
             <!-- <div class="social_box">
-              <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
           </div>
         </div>
@@ -303,7 +303,7 @@
     <div class="container">
       <div class="info_top">
         <div class="info_logo">
-          <a href="">
+          <a >
             <img src="images/logo.png" alt="">
           </a>
         </div>
@@ -334,10 +334,10 @@
               </a>
             </div>
             <div class="social_box">
-              <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-              <a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">

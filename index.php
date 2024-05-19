@@ -357,16 +357,16 @@
                 <h5> <span class="sec-color"> SHRI KISHANBHAI VORA </span></h5>
                 <h6> <span class="gray-color"> FOUNDER/PRESIDENT </span></h6>
                 <!-- <div class="social_box">
-                  <a href="">
+                  <a >
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-twitter" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
                 </div> -->
@@ -387,16 +387,16 @@
                 <h5>ALKA K VORA</h5>
                 <h6>SECRETARY</h6>
                 <!-- <div class="social_box">
-                  <a href="">
+                  <a >
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-twitter" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
                 </div> -->
@@ -417,16 +417,16 @@
                 <h5>SHRI AMIBEN BHATT</h5>
                 <h6>TREASURER</h6>
                 <!-- <div class="social_box">
-                  <a href="">
+                  <a >
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-twitter" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
                 </div> -->
@@ -447,16 +447,16 @@
                 <h5>SHRI DENISHBHAI VYAS</h5>
                 <h6>VICE-PRESEDENT</h6>
                 <!-- <div class="social_box">
-                  <a href="">
+                  <a >
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-twitter" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
                 </div> -->
@@ -477,16 +477,16 @@
                 <h5>SHRI DR. D P SAVALIYA </h5>
                 <h6>TRUSTEE</h6>
                 <!-- <div class="social_box">
-                  <a href="">
+                  <a >
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-twitter" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
                 </div> -->
@@ -506,16 +506,16 @@
                 <h5>SHRI SEJALBEN TRIVEDI</h5>
                 <h6>TRUSTEE</h6>
                 <!-- <div class="social_box">
-                  <a href="">
+                  <a >
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-twitter" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
                 </div> -->
@@ -535,16 +535,16 @@
                 <h5>SHRI SUNILBHAI BHATT </h5>
                 <h6>TRUSTEE</h6>
                 <!-- <div class="social_box">
-                  <a href="">
+                  <a >
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-twitter" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a >
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
                 </div> -->
@@ -793,7 +793,7 @@
     <div class="container">
       <div class="info_top">
         <div class="info_logo">
-          <a href="">
+          <a >
             <img src="images/logo.png" alt="">
           </a>
         </div>
@@ -830,16 +830,16 @@
               </a>
             </div>
             <div class="social_box">
-              <a href="">
+              <a >
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a >
                 <i class="fa fa-twitter" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a >
                 <i class="fa fa-linkedin" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a >
                 <i class="fa fa-instagram" aria-hidden="true"></i>
               </a>
             </div>
