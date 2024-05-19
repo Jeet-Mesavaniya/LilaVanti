@@ -53,16 +53,16 @@
               8866320893 | 9429040878
             </span>
           </a>
-          <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
+          <a href="mailto:Info@lilavantitrust.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
             <i class="fa fa-envelope" aria-hidden="true"></i>
             <span class="gray-color">
-              info@lilavanti.org
+            Info@lilavantitrust.org
             </span>
           </a>
           <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
             <i class="fa fa-map-marker" aria-hidden="true"></i>
             <span class="gray-color">
-              Lilavanti Educational & Medical Charitable Trust
+              Lilavanti Education & Medical Charitable Trust
             </span>
           </a>
         </div>
@@ -366,7 +366,7 @@
               <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>
-                  Lilavanti Educational & Medical Charitable Trust
+                  Lilavanti Education & Medical Charitable Trust
                 </span>
               </a>
               <a>
@@ -375,10 +375,10 @@
                   8866320893 | 9429040878
                 </span>
               </a>
-              <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
+              <a href="mailto:Info@lilavantitrust.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
                 <i class="fa fa-envelope"></i>
                 <span>
-                  info@lilavanti.org
+                  Info@lilavantitrust.org
                 </span>
               </a>
             </div>
@@ -387,7 +387,7 @@
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </a>
               <a >
-                <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+                <img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/>
               </a>
               <a >
                 <i class="fa fa-linkedin" aria-hidden="true"></i>

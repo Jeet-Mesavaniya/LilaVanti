@@ -54,9 +54,11 @@
                   <i class="fa fa-phone" aria-hidden="true"></i>
                   <span class="gray-color">8866320893</span>
               </a>
-              <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
+              <a href="mailto:Info@lilavantitrust.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
                   <i class="fa fa-envelope" aria-hidden="true"></i>
-                  <span class="gray-color">info@lilavanti.org</span>
+                  <span class="gray-color">
+                    Info@lilavantitrust.org
+                  </span>
               </a>
           </div>
           <div class="contact_row custom-contact-row">
@@ -66,7 +68,9 @@
               </a>
               <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
                   <i class="fa fa-map-marker" aria-hidden="true"></i>
-                  <span class="gray-color">Lilavanti Educational & Medical Charitable Trust</span>
+                  <span class="gray-color">
+                    Lilavanti Education & Medical Charitable Trust
+                  </span>
               </a>
           </div>
       </div>
@@ -137,7 +141,7 @@
                   <div class="detail-box">
                     <div class="play_btn">
                       <button>
-                        <img src="images/icons8-education-80.png" alt="Icon description"></i>
+                        <img src="images/logo.png" style="width : 50px; height : 50px;" alt="Icon description"></i>
                       </button>
                     </div>
                     <!-- 1st -->
@@ -155,25 +159,23 @@
                 </div>
                 <div class="col-md-6">
                   <div class="img-box">
-                    <img src="images/slider-img.jpg" alt="">
+                    <img src="images/2235963.png" alt="">
                     
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="carousel-item">
+          <!-- <div class="carousel-item">
             <div class="container ">
               <div class="row">
                 <div class="col-md-6">
                   <div class="detail-box">
                     <div class="play_btn">
                       <button>
-                        <!-- <i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> -->
-                        <img src="images/icons8-education-50.png" alt="Icon description"></i>
+                        <img src="images/logo.png" style="width : 50px; height : 50px;" alt="Icon description"></i>
                       </button>
                     </div>
-                    <!-- 2nd -->
                     <h1>
                         LilaVanti <br>
                       <span>
@@ -195,19 +197,17 @@
                 </div>
               </div>
             </div>
-          </div>
-          <div class="carousel-item">
+          </div> -->
+          <!-- <div class="carousel-item">
             <div class="container ">
               <div class="row">
                 <div class="col-md-6">
                   <div class="detail-box">
                     <div class="play_btn">
                       <button>
-                        <!-- <i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> -->
                         <img src="images/icons8-education-80.png" alt="Icon description"></i>
                       </button>
                     </div>
-                    <!-- 3rd -->
                     <h1>
                       LilaVanti <br>
                       <span>
@@ -229,9 +229,9 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
-        <div class="carousel_btn-box">
+        <!-- <div class="carousel_btn-box">
           <a class="carousel-control-prev" href="#customCarousel1" role="button" data-slide="prev">
             <img src="images/prev.png" alt="">
             <span class="sr-only">Previous</span>
@@ -240,7 +240,7 @@
             <img src="images/next.png" alt="">
             <span class="sr-only">Next</span>
           </a>
-        </div>
+        </div> -->
       </div>
 
     </section>
@@ -356,7 +356,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-        <span class="sec-color"> Our </span> <span>Trustee Details</span>
+          Our <span>Trustee Details</span>
         </h2>
       </div>
       <div class="carousel-wrap ">
@@ -784,7 +784,7 @@
               <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>
-                  Lilavanti Educational & Medical Charitable Trust
+                  Lilavanti Education & Medical Charitable Trust
                 </span>
               </a>
               <a>
@@ -793,10 +793,10 @@
                   8866320893 | 9429040878
                 </span>
               </a>
-              <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
+              <a href="mailto:Info@lilavantitrust.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
                 <i class="fa fa-envelope"></i>
                 <span>
-                  info@lilavanti.org
+                  Info@lilavantitrust.org
                 </span>
               </a>
             </div>
@@ -804,8 +804,9 @@
               <a >
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </a>
-              <a >
-                <i class="fa fa-twitter" aria-hidden="true"></i>
+              <a > 
+                <img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/>
+                <!-- <i class="fa fa-twitter" aria-hidden="true"></i> -->
               </a>
               <a >
                 <i class="fa fa-linkedin" aria-hidden="true"></i>
