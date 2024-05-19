@@ -48,16 +48,16 @@
                 8866320893 | 9429040878
               </span>
             </a>
-            <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
+            <a href="mailto:Info@lilavantitrust.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span class="gray-color">
-                info@lilavanti.org
+                Info@lilavantitrust.org
               </span>
             </a>
             <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span class="gray-color">
-                Lilavanti Educational & Medical Charitable Trust
+                Lilavanti Education & Medical Charitable Trust
               </span>
             </a>
           </div>
@@ -128,13 +128,13 @@
             <p>
               Shri Kishanbhai Vora is the son of Vrajlal Vora, one of the most esteemed teachers of his era in Porbandar. He also carries the legacy of historian Manibhai Vora in his lineage. Professionally, Kishanbhai has served as an Instructor at the Government I.T.I for over 30 years, amassing vast experience in skill development and formal education.
               <br><br>
-              Kishanbhai possesses a dynamic personality and extensive social connections, complemented by his distinguished residence. The Lilavanti Educational & Medical Charitable Trust is the fruition of his noble vision, conceived after completing his government duties. His unwavering commitment to helping others inspired the creation of this organization, dedicated to providing essential needs in today's modern, developing world: "skillful knowledge" and "good health".
+              Kishanbhai possesses a dynamic personality and extensive social connections, complemented by his distinguished residence. The Lilavanti Education & Medical Charitable Trust is the fruition of his noble vision, conceived after completing his government duties. His unwavering commitment to helping others inspired the creation of this organization, dedicated to providing essential needs in today's modern, developing world: "skillful knowledge" and "good health".
               <br><br>
               Due to his extraordinary abilities and altruistic nature, Kishanbhai is the ideal founder and president of this trust.
             </p>
             <!-- <div class="social_box">
               <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/></a>
               <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
@@ -153,13 +153,13 @@
             <p>
               Women possess the remarkable ability to transform a mere house into a nurturing home," exemplifying this sentiment is Mrs. Alka Kishanbhai Vora. Her unwavering dedication and steadfast support towards her home, family, and her husband's endeavors imbue the noble ideals of Kishanbhai Vora with profound meaning, earning her tremendous respect within society.
               <br><br>
-              Alka possesses a unique talent for navigating situations in a manner that upholds the esteemed ethics of the Vora family and our cultural heritage, ensuring no compromise to their integrity. It is this exceptional trait that renders her the perfect fit for the role of secretary within this organization. We anticipate that her uncommon capabilities will continue to positively impact society through the endeavors of the Lilavanti Educational & Medical Charitable Trust.
+              Alka possesses a unique talent for navigating situations in a manner that upholds the esteemed ethics of the Vora family and our cultural heritage, ensuring no compromise to their integrity. It is this exceptional trait that renders her the perfect fit for the role of secretary within this organization. We anticipate that her uncommon capabilities will continue to positively impact society through the endeavors of the Lilavanti Education & Medical Charitable Trust.
               <br><br>
               Alka's message to society resonates with her strong work ethic: "When I work, I work with unwavering dedication. Hence, I seek to collaborate with individuals who share this commitment, as I rely on it from everyone." Her dedication serves as an inspiration for all, reflecting a steadfast commitment to making a meaningful difference.
             </p>
             <!-- <div class="social_box">
               <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/></a>
               <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
@@ -178,13 +178,13 @@
             <p>
               "Don’t confine your aspirations. Often, individuals constrain themselves to what they perceive as achievable. Yet, the truth remains: you can transcend the boundaries your mind sets. Believe in your capabilities, for what you conceive, you can achieve."
               <br><br>
-              In the context of the Lilavanti Educational & Medical Charitable Trust, these words ring especially true. Take, for instance, Amiben Bhatt, whose tireless dedication and unwavering belief in the trust's mission have propelled its initiatives to new heights. Amiben's steadfast commitment to the cause, coupled with her visionary approach to handling the trust's affairs, has been instrumental in ensuring its impact reaches far and wide.
+              In the context of the Lilavanti Education & Medical Charitable Trust, these words ring especially true. Take, for instance, Amiben Bhatt, whose tireless dedication and unwavering belief in the trust's mission have propelled its initiatives to new heights. Amiben's steadfast commitment to the cause, coupled with her visionary approach to handling the trust's affairs, has been instrumental in ensuring its impact reaches far and wide.
               <br><br>
               Her leadership exemplifies the essence of the quote, inspiring others to break free from self-imposed limitations and strive for excellence. In her capable hands, the trust continues to make strides, transforming lives and communities with each endeavor.
             </p>
             <!-- <div class="social_box">
               <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/></a>
               <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
@@ -201,13 +201,13 @@
             <h5>SHRI DENISHBHAI VYAS</h5>
             <h6>VICE-PRESEDENT</h6>
             <p>
-              In the broader scope of education, Shri Denishbhai Vyas embodies the essence of enlightenment. His leadership within the Lilavanti Educational & Medical Charitable Trust reflects a commitment to nurturing critical thinking and intellectual curiosity. With his guidance, the trust's educational initiatives aspire to foster not only the acquisition of knowledge but also a lifelong passion for learning and personal growth.
+              In the broader scope of education, Shri Denishbhai Vyas embodies the essence of enlightenment. His leadership within the Lilavanti Education & Medical Charitable Trust reflects a commitment to nurturing critical thinking and intellectual curiosity. With his guidance, the trust's educational initiatives aspire to foster not only the acquisition of knowledge but also a lifelong passion for learning and personal growth.
               <br><br>
               Denishbhai's vision resonates with the understanding that education extends beyond classroom obligations, empowering individuals to comprehend and engage with the complexities of the world around them. Through his dedicated stewardship, the trust endeavors to cultivate a generation of learners equipped to navigate society with discernment and purpose, contributing meaningfully to the betterment of our collective future.
             </p>
             <!-- <div class="social_box">
               <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/></a>
               <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
@@ -234,7 +234,7 @@
             </p>
             <!-- <div class="social_box">
               <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/></a>
               <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
@@ -259,7 +259,7 @@
             </p>
             <!-- <div class="social_box">
               <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/></a>
               <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
@@ -285,7 +285,7 @@
             </p>
             <!-- <div class="social_box">
               <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/></a>
               <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div> -->
@@ -320,7 +320,7 @@
             <div class="info_contact">
               <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
-                <span>Lilavanti Educational & Medical Charitable Trust</span>
+                <span>Lilavanti Education & Medical Charitable Trust</span>
               </a>
               <a>
                 <i class="fa fa-phone" aria-hidden="true"></i>
@@ -328,14 +328,14 @@
                   8866320893 | 9429040878
                 </span>
               </a>
-              <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
+              <a href="mailto:Info@lilavantitrust.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
                 <i class="fa fa-envelope"></i>
-                <span>info@lilavanti.org</span>
+                <span>Info@lilavantitrust.org</span>
               </a>
             </div>
             <div class="social_box">
               <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/></a>
               <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
               <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div>
