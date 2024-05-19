@@ -43,36 +43,34 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <div class="header_top header_top_contact">
-        <div class="container ">
-          <div class="contact_nav">
-            <a>
-              <i class="fa fa-phone" aria-hidden="true"></i>
-              <span class="gray-color">
-                8866320893 | 9429040878
-              </span>
-            </a>
-            <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
-              <i class="fa fa-envelope" aria-hidden="true"></i>
-              <span class="gray-color">
-                info@lilavanti.org
-              </span>
-            </a>
-            <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
-              <i class="fa fa-map-marker" aria-hidden="true"></i>
-              <span class="gray-color">
-                Lilavanti Educational & Medical Charitable Trust
-              </span>
-            </a>
-          </div>
+      <div class="header_top">
+        <a class="navbar-brand" href="index.php">
+          <img src="images/Lilavanti-logo.png" alt="Lilavanti Logo">
+        </a>
+        <div class="contact_nav header_top_contact2">
+          <a href="tel:8866320893">
+            <i class="fa fa-phone" aria-hidden="true"></i>
+            <span class="gray-color">
+              8866320893 | 9429040878
+            </span>
+          </a>
+          <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
+            <i class="fa fa-envelope" aria-hidden="true"></i>
+            <span class="gray-color">
+              info@lilavanti.org
+            </span>
+          </a>
+          <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
+            <i class="fa fa-map-marker" aria-hidden="true"></i>
+            <span class="gray-color">
+              Lilavanti Educational & Medical Charitable Trust
+            </span>
+          </a>
         </div>
       </div>
       <div class="header_bottom">
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg custom_nav-container ">
-            <a class="navbar-brand" href="index.php">
-              <img src="images/Lilavanti-logo.png" alt="">
-            </a>
             
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class=""> </span>
@@ -255,7 +253,7 @@
                 About <span>LILAVANTI</span>
               </h2>
             </div>
-            <p>
+            <p class="sec-gray-color">
                 This trust was established on 20th July 2022 by its founder, Kishan Vora. The primary focus of this trust is to identify and enhance the existing skills among students, sharpening these skills and cultivating their strengths. With a fundamental aim centered around skill-based development, the trust operates mainly in two crucial areas: education and healthcare. 
                 <span class="more-text">In the present era, these two basic necessities are essential for the well-being and advancement of individuals. The trust endeavors to provide these vital amenities to as many people as possible, ensuring that education and healthcare are accessible and of high quality. Through its initiatives, the trust aims to empower individuals, foster community growth, and contribute to the overall development of society.</span> 
                 <span class="read-more-button" onclick="toggleReadMore()">Read more...</span>
@@ -288,7 +286,7 @@
               <h4>
                 Quality education
               </h4>
-              <p style = "margin-bottom: 0;">
+              <p class="sec-gray-color" style = "margin-bottom: 0;">
                 Our mission is to reconstruct and redevelop the skills of individuals. To achieve this noble goal, we are dedicated to providing high-quality education, expert consultancy, <span id="dots">...</span><span id="more" style= "display:none"> and comprehensive training programs. By empowering people with the necessary knowledge and skills, we aim to foster personal growth and contribute to the overall development of our society.</span>
               </p>
               <span onclick="myFunction(dots, more, mybtn)" id= "mybtn" class="read-more-button">Read more</span>
@@ -349,57 +347,29 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-              <a href="Trustee.php#trusteeKISHANBHAI">
-                <img id="aboutImage" src="images/KishanVora-Photo.jpg"   alt="" />
+              <a href="Trustees/Trustee-Kishanbhai.php">
+                <img id="aboutImage" class="image-max-width" src="images/KishanVora-Photo.jpg"   alt="" />
               </a>
               </div>
               <div class="detail-box">
                 <h5> <span class="sec-color"> SHRI KISHANBHAI VORA </span></h5>
-                <h6> <span class="gray-color"> FOUNDER/PRESIDENT </span></h6>
-                <!-- <div class="social_box">
-                  <a >
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                  </a>
-                </div> -->
+                <h6> FOUNDER/PRESIDENT </span></h6>
               </div>
             </div>
           </div>
           <!-- trustee 1 end -->
-    
+          
           <!-- trustee 2 -->
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustee.php#trusteeALKA">
-                  <img src="images/Alkaben-Photo.jpg" alt="" />
-                </a>
+              <a href="Trustees/Trustee-raj.php">
+                <img id="aboutImage" class="image-max-width" src="images/raj1.jpeg"   alt="" />
+              </a>
               </div>
               <div class="detail-box">
-                <h5>ALKA K VORA</h5>
-                <h6>SECRETARY</h6>
-                <!-- <div class="social_box">
-                  <a >
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                  </a>
-                </div> -->
+                <h5> <span class="sec-color"> SHRI RAJ VORA </span></h5>
+                <h6> MANAGER </span></h6>
               </div>
             </div>
           </div>
@@ -409,27 +379,13 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustee.php#trusteeAmiben">
-                  <img src="images/AmiBhatt-Photo.jpg" alt="" />
-                </a>
+              <a href="Trustees/Trustee-jenish.php">
+                <img class="image-max-width" id="aboutImage" src="images/raj.jpeg"   alt="" />
+              </a>
               </div>
               <div class="detail-box">
-                <h5>SHRI AMIBEN BHATT</h5>
-                <h6>TREASURER</h6>
-                <!-- <div class="social_box">
-                  <a >
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                  </a>
-                </div> -->
+                <h5> <span class="sec-color"> SHRI JENISH PITHADIYA </span></h5>
+                <h6> TRUSTEE </span></h6>
               </div>
             </div>
           </div>
@@ -439,27 +395,13 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustee.php#trusteeDENISHBHAI">
-                  <img src="images/DenishVyas-Photo.jpg" alt="" />
+                <a href="Trustees/Trustee-savaliya.php">
+                  <img class="image-max-width" src="images/Dhanjibhai-Photo.jpg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
-                <h5>SHRI DENISHBHAI VYAS</h5>
-                <h6>VICE-PRESEDENT</h6>
-                <!-- <div class="social_box">
-                  <a >
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                  </a>
-                </div> -->
+                <h5>SHRI DR. D P SAVALIYA </h5>
+                <h6>TRUSTEE</h6>
               </div>
             </div>
           </div>
@@ -469,89 +411,99 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustee.php#trusteeSAVALIYA">
-                  <img src="images/Dhanjibhai-Photo.jpg" alt="" />
-                </a>
-              </div>
-              <div class="detail-box">
-                <h5>SHRI DR. D P SAVALIYA </h5>
-                <h6>TRUSTEE</h6>
-                <!-- <div class="social_box">
-                  <a >
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                  </a>
-                </div> -->
-              </div>
-            </div>
-          </div>
-          <!-- trustee 5 end -->
-          <!-- trustee 6 -->
-          <div class="item">
-            <div class="box">
-              <div class="img-box">
-                <a href="Trustee.php#trusteeSEJALBEN">
-                  <img src="images/SejalMesia-Photo.jpg" alt="" />
+                <a href="Trustees/Trustee-sejalben.php">
+                  <img class="image-max-width" src="images/SejalMesia-Photo.jpg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
                 <h5>SHRI SEJALBEN TRIVEDI</h5>
                 <h6>TRUSTEE</h6>
-                <!-- <div class="social_box">
-                  <a >
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                  </a>
-                </div> -->
               </div>
             </div>
           </div>
-          <!-- trustee 6 end -->
-          <!-- trustee 7 -->
+          <!-- trustee 5 end -->
+
+          <!-- trustee 6 -->
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustee.php#trusteeSUNILBHAI">
-                  <img src="images/SunilBhatt-Photo.jpg" alt="" />
+                <a href="Trustees/Trustee-sunilbhai.php">
+                  <img class="image-max-width" src="images/SunilBhatt-Photo.jpg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
                 <h5>SHRI SUNILBHAI BHATT </h5>
                 <h6>TRUSTEE</h6>
-                <!-- <div class="social_box">
-                  <a >
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                  </a>
-                  <a >
-                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                  </a>
-                </div> -->
+              </div>
+            </div>
+          </div>
+          <!-- trustee 6 end -->
+
+          <!-- trustee 9 -->
+          <div class="item">
+            <div class="box">
+              <div class="img-box">
+                <a href="Trustees/Trustee-jagrutiben.php">
+                  <img class="image-max-width" src="images/DenishVyas-Photo.jpg" alt="" />
+                </a>
+              </div>
+              <div class="detail-box">
+                <h5>SHRI  JAGRUTIBEN MESAVANIYA</h5>
+                <h6>TRUSTEE</h6>
+              </div>
+            </div>
+          </div>
+          <!-- trustee 9 end -->
+
+          <!-- trustee 9 -->
+          <div class="item">
+            <div class="box">
+              <div class="img-box">
+                <a href="Trustees/Trustee-denishbhai.php">
+                  <img class="image-max-width" src="images/DenishVyas-Photo.jpg" alt="" />
+                </a>
+              </div>
+              <div class="detail-box">
+                <h5>SHRI DENISHBHAI VYAS</h5>
+                <h6>VICE-PRESEDENT</h6>
+              
+              </div>
+            </div>
+          </div>
+          <!-- trustee 9 end -->
+
+    
+          <!-- trustee 7 -->
+          <div class="item">
+            <div class="box">
+              <div class="img-box">
+                <a href="Trustees/Trustee-alkaben.php">
+                  <img class="image-max-width" src="images/Alkaben-Photo.jpg" alt="" />
+                </a>
+              </div>
+              <div class="detail-box">
+                <h5>ALKA K VORA</h5>
+                <h6>SECRETARY</h6>
               </div>
             </div>
           </div>
           <!-- trustee 7 end -->
+          
+          <!-- trustee 8 -->
+          <div class="item">
+            <div class="box">
+              <div class="img-box">
+                <a href="Trustees/Trustee-amiben.php">
+                  <img class="image-max-width" src="images/AmiBhatt-Photo.jpg" alt="" />
+                </a>
+              </div>
+              <div class="detail-box">
+                <h5>SHRI AMIBEN BHATT</h5>
+                <h6>TREASURER</h6>
+              </div>
+            </div>
+          </div>
+          <!-- trustee 8 end -->
 
         </div>
       </div>
@@ -859,7 +811,7 @@
                 <a href="mission.php">
                   Mission
                 </a>
-                <a href="Trustee.php">
+                <a href="#aboutTrustee">
                   Trustee Details
                 </a>
                 <a href="vision.php">

@@ -13,39 +13,35 @@
   <meta name="author" content="" />
 
   <title>Lilavanti</title>
-  <link rel="icon" type="image/x-icon" href="images/logo.png">
-
+  <link rel="icon" type="image/x-icon" href="../images/logo.png">
 
   <!-- bootstrap core css -->
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+  <link rel="stylesheet" type="text/css" href="../css/bootstrap.css" />
 
   <!-- fonts style -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
 
-  <!--owl slider stylesheet -->
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
-
   <!-- font awesome style -->
-  <link href="css/font-awesome.min.css" rel="stylesheet" />
+  <link href="../css/font-awesome.min.css" rel="stylesheet" />
   <!-- nice select -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" integrity="sha256-mLBIhmBvigTFWPSCtvdu6a76T+3Xyt+K571hupeFLg4=" crossorigin="anonymous" />
   <!-- datepicker -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.css">
   <!-- Custom styles for this template -->
-  <link href="css/style.css" rel="stylesheet" />
+  <link href="../css/style.css" rel="stylesheet" />
   <!-- responsive style -->
-  <link href="css/responsive.css" rel="stylesheet" />
+  <link href="../css/responsive.css" rel="stylesheet" />
 
 </head>
 
 <body class="sub_page">
 
   <div class="hero_area">
-    <!-- header section strats -->
+    <!-- header section starts -->
     <header class="header_section">
       <div class="header_top header_top_contact">
-        <a class="navbar-brand" href="index.php">
-          <img src="images/Lilavanti-logo.png" alt="Lilavanti Logo">
+        <a class="navbar-brand" href="../index.php">
+          <img src="../images/Lilavanti-logo.png" alt="Lilavanti Logo">
         </a>
         <div class="contact_nav">
           <a href="tel:8866320893">
@@ -80,19 +76,19 @@
               <div class="d-flex mr-auto flex-column flex-lg-row align-items-center">
                 <ul class="navbar-nav  ">
                   <li class="nav-item active">
-                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="../index.php">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about.php"> About</a>
+                    <a class="nav-link" href="../about.php"> About</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="mission.php">Mission</a>
+                    <a class="nav-link" href="../mission.php">Mission</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#aboutTrustee">Trustee Details</a>
+                    <a class="nav-link" href="../index.php#aboutTrustee">Trustee Details</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="vision.php">Vision</a>
+                    <a class="nav-link" href="../vision.php">Vision</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#ContactSection">Contact Us</a>
@@ -107,79 +103,55 @@
     </header>
     <!-- end header section -->
   </div>
+<br>
+<br>
 
-
-  <!-- treatment section -->
-
-  <section class="treatment_section layout_padding">
-    <div class="container">
-      <div class="heading_container heading_center">
-        <h2>
-          Our <span>Mission</span>
-        </h2>
-      </div>
-      <div class="row">
-        <div class="col-md-6 col-lg-4">
-          <div class="box ">
-            <!-- <div class="img-box">
-              <img src="images/t1.png" alt="">
-            </div> -->
-            <div class="detail-box">
-              <h4>
-                Quality education
-              </h4>
-              <p style = "margin-bottom: 0;">
-                Our mission is to reconstruct and redevelop the skills of individuals. To achieve this noble goal, we are dedicated to providing high-quality education, expert consultancy, <span id="dots3">...</span><span id="more3" style= "display:none"> and comprehensive training programs. By empowering people with the necessary knowledge and skills, we aim to foster personal growth and contribute to the overall development of our society.</span>
-              </p>
-              <span onclick="myFunction(dots3, more3, mybtn3)" id= "mybtn3" class="read-more-button">Read more</span>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4">
-          <div class="box ">
-            <!-- <div class="img-box">
-              <img src="images/t2.png" alt="">
-            </div> -->
-            <div class="detail-box">
-              <h4>
-                Empowerment
-              </h4>
-              <p style = "margin-bottom: 0;">
-                We are committed to fostering independent critical thinking and socio-scientific competence, building the capacity to empower learners in achieving their professional<span id="dots4">...</span><span id="more4" style= "display:none"> and social goals. Our aim is to enhance the quality of life in harmony with cultural values by providing enriching learning opportunities. We are dedicated to the inculcation of the highest human values, ensuring that our educational programs not only impart knowledge but also promote ethical and moral development.</span>
-              </p>
-              <span onclick="myFunction(dots4, more4, mybtn4)" id= "mybtn4" class="read-more-button">Read more</span>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4">
-          <div class="box ">
-            <!-- <div class="img-box">
-              <img src="images/t3.png" alt="">
-            </div> -->
-            <div class="detail-box">
-              <h4>
-                Global Healthcare Standards
-              </h4>
-              <p style = "margin-bottom: 0;">
-                We are dedicated to creating a high-quality ambiance and fostering a positive work culture, with a steadfast commitment to serving society. Our goal is to <span id="dots5">...</span><span id="more5" style= "display:none"> alleviate human suffering by providing equitable healthcare services that meet global standards. Through our efforts, we strive to deliver the highest level of care and compassion to every individual, ensuring that our services contribute positively to the well-being of the community.</span>
-              </p>
-              <span onclick="myFunction(dots5, more5, mybtn5)" id= "mybtn5" class="read-more-button">Read more</span>
-            </div>
-          </div>
-        </div>
-      </div>
+  <!-- team section -->
+  <div class="trustee-back-change ml-5 mb-5 mr-5">
+    <div class="heading_container heading_center">
+      <h2>
+        Our <span>Trustee Details</span>
+      </h2>
     </div>
-  </section>
+    <section class="team_section layout_padding-cus">
+      <div class="container">
+       
+  
+        <!-- trustee 4 -->
+        <div class="trustee-box" id="trusteeDENISHBHAI">
+          <div class="img-box-trustee">
+            <img src="../images/DenishVyas-Photo.jpg" alt="SHRI DENISHBHAI VYAS" />
+          </div>
+          <div class="name-info">
+            <h5>SHRI DENISHBHAI VYAS</h5>
+            <h6>VICE-PRESEDENT</h6>
+            <p>
+              In the broader scope of education, Shri Denishbhai Vyas embodies the essence of enlightenment. His leadership within the Lilavanti Educational & Medical Charitable Trust reflects a commitment to nurturing critical thinking and intellectual curiosity. With his guidance, the trust's educational initiatives aspire to foster not only the acquisition of knowledge but also a lifelong passion for learning and personal growth.
+              <br><br>
+              Denishbhai's vision resonates with the understanding that education extends beyond classroom obligations, empowering individuals to comprehend and engage with the complexities of the world around them. Through his dedicated stewardship, the trust endeavors to cultivate a generation of learners equipped to navigate society with discernment and purpose, contributing meaningfully to the betterment of our collective future.
+            </p>
+            <!-- <div class="social_box">
+              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            </div> -->
+          </div>
+        </div>
+        <!-- trustee 4 end -->
 
-  <!-- end treatment section -->
+      </div>
+    </section>
+  </div>
+  <!-- end team section -->
 
   <!-- info section -->
-  <section class="info_section " id="ContactSection">
+  <section class="info_section" id="ContactSection">
     <div class="container">
       <div class="info_top">
         <div class="info_logo">
           <a >
-            <img src="images/logo.png" alt="">
+            <img src="../images/logo.png" alt="">
           </a>
         </div>
         <div class="info_logo">
@@ -191,15 +163,11 @@
       <div class="info_bottom layout_padding2">
         <div class="row info_main_row">
           <div class="col-md-6 col-lg-3">
-            <h5>
-              Address
-            </h5>
+            <h5>Address</h5>
             <div class="info_contact">
               <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
-                <span>
-                  Lilavanti Educational & Medical Charitable Trust
-                </span>
+                <span>Lilavanti Educational & Medical Charitable Trust</span>
               </a>
               <a>
                 <i class="fa fa-phone" aria-hidden="true"></i>
@@ -209,47 +177,25 @@
               </a>
               <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
                 <i class="fa fa-envelope"></i>
-                <span>
-                  info@lilavanti.org
-                </span>
+                <span>info@lilavanti.org</span>
               </a>
             </div>
             <div class="social_box">
-              <a >
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-              </a>
-              <a >
-                <i class="fa fa-twitter" aria-hidden="true"></i>
-              </a>
-              <a >
-                <i class="fa fa-linkedin" aria-hidden="true"></i>
-              </a>
-              <a >
-                <i class="fa fa-instagram" aria-hidden="true"></i>
-              </a>
+              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="info_links">
-              <h5>
-                Useful link
-              </h5>
+              <h5>Useful link</h5>
               <div class="info_links_menu">
-                <a href="index.php">
-                  Home
-                </a>
-                <a href="about.php">
-                  About
-                </a>
-                <a href="mission.php" class="active">
-                  Mission
-                </a>
-                <a href="Trustee.php">
-                  Trustee Details
-                </a>
-                <a href="vision.php">
-                  Vision
-                </a>
+                <a href="../index.php">Home</a>
+                <a href="../about.php">About</a>
+                <a href="../mission.php">Mission</a>
+                <a href="../index.php#aboutTrustee" class="active">Trustee Details</a>
+                <a href="../vision.php">Vision</a>
               </div>
             </div>
           </div>
@@ -260,8 +206,7 @@
       </div>
     </div>
   </section>
-  <!-- end info_section -->
-
+  <!-- end info section -->
 
   <!-- footer section -->
   <footer class="footer_section">
@@ -273,20 +218,16 @@
   </footer>
   <!-- footer section -->
 
-  <!-- jQery -->
+  <!-- jQuery -->
   <script src="js/jquery-3.4.1.min.js"></script>
   <!-- bootstrap js -->
   <script src="js/bootstrap.js"></script>
   <!-- nice select -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.min.js" integrity="sha256-Zr3vByTlMGQhvMfgkQ5BtWRSKBGa2QlspKYJnkjZTmo=" crossorigin="anonymous"></script>
-  <!-- owl slider -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
   <!-- datepicker -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.js"></script>
   <!-- custom js -->
   <script src="js/custom.js"></script>
-
-
 </body>
 
 </html>
