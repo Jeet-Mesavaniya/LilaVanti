@@ -1283,5 +1283,9 @@ a:focus {
 .image-max-width{
   max-width: 185px;
 }
+.dropdown-item:hover{
+  background-color: #007bff;
+  color: #ffffff;
+}
 
 /*# sourceMappingURL=style.css.map */
