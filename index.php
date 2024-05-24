@@ -42,92 +42,7 @@
 
   <div class="hero_area">
     <!-- header section strats -->
-    <header class="header_section">
-    
-    <div class="header_top header_top_contact custom-header-top">
-      <a class="navbar-brand custom-navbar-brand" href="index.php">
-          <img src="images/Lilavanti-logo.png" alt="Lilavanti Logo">
-      </a>
-      <div class="contact_nav custom-contact-nav">
-          <div class="contact_row custom-contact-row">
-              <a href="tel:8866320893">
-                  <i class="fa fa-phone" aria-hidden="true"></i>
-                  <span class="gray-color">8866320893</span>
-              </a>
-              <a href="mailto:Info@lilavantitrust.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
-                  <i class="fa fa-envelope" aria-hidden="true"></i>
-                  <span class="gray-color">
-                    Info@lilavantitrust.org
-                  </span>
-              </a>
-          </div>
-          <div class="contact_row custom-contact-row">
-              <a href="tel:9429040878">
-                  <i class="fa fa-phone" aria-hidden="true"></i>
-                  <span class="gray-color">9429040878</span>
-              </a>
-              <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
-                  <i class="fa fa-map-marker" aria-hidden="true"></i>
-                  <span class="gray-color">
-                    Lilavanti Education & Medical Charitable Trust
-                  </span>
-              </a>
-          </div>
-      </div>
-    </div>
-
-
-
-
-
-      <div class="header_bottom">
-        <div class="container-fluid">
-          <nav class="navbar navbar-expand-lg custom_nav-container ">
-            
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-              <span class=""> </span>
-            </button>
-
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-              <div class="d-flex mr-auto flex-column flex-lg-row align-items-center">
-                <ul class="navbar-nav  ">
-                  <li class="nav-item active">
-                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
-                  </li>
-                  <!-- <li class="nav-item">
-                    <a class="nav-link" href="about.php"> About</a>
-                  </li> -->
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLinkAbout" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      About Us
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLinkAbout">
-                      <a class="dropdown-item" href="about.php">About</a>
-                      <a class="dropdown-item" href="mission.php">Mission</a>
-                      <a class="dropdown-item" href="#aboutTrustee">Trustee Details</a>
-                      <a class="dropdown-item" href="vision.php">Vision</a>
-                    </div>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="mission.php">Mission</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#aboutTrustee">Trustee Details</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="vision.php">Vision</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#ContactSection">Contact Us</a>
-                  </li>
-                </ul>
-              </div>
-              
-            </div>
-          </nav>
-        </div>
-      </div>
-    </header>
+    <?php include 'header.php'; ?>
     <!-- end header section -->
     <!-- slider section -->
     <section class="slider_section ">
@@ -166,81 +81,7 @@
               </div>
             </div>
           </div>
-          <!-- <div class="carousel-item">
-            <div class="container ">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="detail-box">
-                    <div class="play_btn">
-                      <button>
-                        <img src="images/logo.png" style="width : 50px; height : 50px;" alt="Icon description"></i>
-                      </button>
-                    </div>
-                    <h1>
-                        LilaVanti <br>
-                      <span>
-                        Education Trust
-                      </span>
-                    </h1>
-                    <p>
-                      In today's dynamic world, education is not merely a privilege but a fundamental right. Our trust endeavors to make quality education accessible to all, regardless of their background or circumstances. Through innovative programs and initiatives, we strive to equip students with the knowledge, skills, and mindset needed to thrive in an ever-evolving landscape.
-                    </p>
-                    <a href="#ContactSection">
-                      Contact Us
-                    </a>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="img-box">
-                    <img src="images/kids-canva.png" alt="">
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> -->
-          <!-- <div class="carousel-item">
-            <div class="container ">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="detail-box">
-                    <div class="play_btn">
-                      <button>
-                        <img src="images/icons8-education-80.png" alt="Icon description"></i>
-                      </button>
-                    </div>
-                    <h1>
-                      LilaVanti <br>
-                      <span>
-                        Medical Trust
-                      </span>
-                    </h1>
-                    <p>
-                      Lilavanti is dedicated to ensuring equitable access to medical services of global standards. We aim to alleviate human suffering and promote a culture of wellness by providing comprehensive healthcare solutions to those in need.
-                    </p>
-                    <a href="#ContactSection">
-                      Contact Us
-                    </a>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="img-box">
-                    <img src="images/slider-img.jpg" alt="">
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> -->
         </div>
-        <!-- <div class="carousel_btn-box">
-          <a class="carousel-control-prev" href="#customCarousel1" role="button" data-slide="prev">
-            <img src="images/prev.png" alt="">
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="carousel-control-next" href="#customCarousel1" role="button" data-slide="next">
-            <img src="images/next.png" alt="">
-            <span class="sr-only">Next</span>
-          </a>
-        </div> -->
       </div>
 
     </section>
@@ -366,7 +207,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-              <a href="Trustees/Trustee-Kishanbhai.php">
+              <a href="Trustee-Kishanbhai.php">
                 <img id="aboutImage" class="image-max-width" src="images/KishanVora-Photo.jpg"   alt="" />
               </a>
               </div>
@@ -382,7 +223,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-              <a href="Trustees/Trustee-raj.php">
+              <a href="Trustee-raj.php">
                 <img id="aboutImage" class="image-max-width" src="images/raj1.jpeg"   alt="" />
               </a>
               </div>
@@ -398,7 +239,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-              <a href="Trustees/Trustee-jenish.php">
+              <a href="Trustee-jenish.php">
                 <img class="image-max-width" id="aboutImage" src="images/jenish-photo.jpg"   alt="" />
               </a>
               </div>
@@ -414,7 +255,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustees/Trustee-savaliya.php">
+                <a href="Trustee-savaliya.php">
                   <img class="image-max-width" src="images/Dhanjibhai-Photo.jpg" alt="" />
                 </a>
               </div>
@@ -430,7 +271,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustees/Trustee-sejalben.php">
+                <a href="Trustee-sejalben.php">
                   <img class="image-max-width" src="images/SejalMesia-Photo.jpg" alt="" />
                 </a>
               </div>
@@ -446,7 +287,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustees/Trustee-sunilbhai.php">
+                <a href="Trustee-sunilbhai.php">
                   <img class="image-max-width" src="images/SunilBhatt-Photo.jpg" alt="" />
                 </a>
               </div>
@@ -462,7 +303,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustees/Trustee-jagrutiben.php">
+                <a href="Trustee-jagrutiben.php">
                   <img class="image-max-width" src="images/Jagrutiben-photo.jpeg" alt="" />
                 </a>
               </div>
@@ -478,7 +319,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustees/Trustee-denishbhai.php">
+                <a href="Trustee-denishbhai.php">
                   <img class="image-max-width" src="images/DenishVyas-Photo.jpg" alt="" />
                 </a>
               </div>
@@ -496,7 +337,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustees/Trustee-alkaben.php">
+                <a href="Trustee-alkaben.php">
                   <img class="image-max-width" src="images/Alkaben-Photo.jpg" alt="" />
                 </a>
               </div>
@@ -512,7 +353,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <a href="Trustees/Trustee-amiben.php">
+                <a href="Trustee-amiben.php">
                   <img class="image-max-width" src="images/AmiBhatt-Photo.jpg" alt="" />
                 </a>
               </div>
@@ -758,107 +599,8 @@
   <!-- contact section -->
 
   <!-- end contact section -->
+  <?php include 'footer.php'; ?>
 
-  <!-- info section -->
-  <section class="info_section " id="ContactSection">
-    <div class="container">
-      <div class="info_top">
-        <div class="info_logo">
-          <a >
-            <img src="images/logo.png" alt="">
-          </a>
-        </div>
-        <div class="info_logo">
-          <h1>
-            Contact Us
-          </h5>
-        </div>
-      </div>
-      <div class="info_bottom layout_padding2">
-        <div class="row info_main_row">
-          <div class="col-md-6 col-lg-3">
-            <h5>
-              Address
-            </h5>
-            <div class="info_contact">
-              <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
-                <i class="fa fa-map-marker" aria-hidden="true"></i>
-                <span>
-                  Lilavanti Education & Medical Charitable Trust
-                </span>
-              </a>
-              <a>
-                <i class="fa fa-phone" aria-hidden="true"></i>
-                <span>
-                  8866320893 | 9429040878
-                </span>
-              </a>
-              <a href="mailto:Info@lilavantitrust.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
-                <i class="fa fa-envelope"></i>
-                <span>
-                  Info@lilavantitrust.org
-                </span>
-              </a>
-            </div>
-            <div class="social_box">
-              <a >
-                <i class="fa fa-facebook" aria-hidden="true"></i>
-              </a>
-              <a > 
-                <img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/>
-                <!-- <i class="fa fa-twitter" aria-hidden="true"></i> -->
-              </a>
-              <a >
-                <i class="fa fa-linkedin" aria-hidden="true"></i>
-              </a>
-              <a >
-                <i class="fa fa-instagram" aria-hidden="true"></i>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="info_links">
-              <h5>
-                Useful link
-              </h5>
-              <div class="info_links_menu">
-                <a class="active" href="index.php">
-                  Home
-                </a>
-                <a href="about.php">
-                  About
-                </a>
-                <a href="mission.php">
-                  Mission
-                </a>
-                <a href="#aboutTrustee">
-                  Trustee Details
-                </a>
-                <a href="vision.php">
-                  Vision
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-12 col-lg-6">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29697.436421699702!2d70.41635121994254!3d21.500685905469695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3958012fadc60a55%3A0x55bef680aae3afbe!2slilavanti!5e0!3m2!1sen!2sin!4v1716021251726!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- end info_section -->
-
-
-  <!-- footer section -->
-  <footer class="footer_section">
-    <div class="container">
-      <p>
-        Copyright &copy; <span id="displayYear"></span> All Rights Reserved By Lilavanti Trust.
-      </p>
-    </div>
-  </footer>
-  <!-- footer section -->
 
   <!-- jQery -->
   <script src="js/jquery-3.4.1.min.js"></script>
