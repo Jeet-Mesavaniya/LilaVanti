@@ -96,7 +96,7 @@
                     <a class="nav-link" href="mission.php">Mission</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#aboutTrustee">Trustee Details</a>
+                    <a class="nav-link" href="index.php#aboutTrustee">Trustee Details</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="vision.php">Vision</a>
@@ -412,7 +412,7 @@
                 <a href="mission.php">
                   Mission
                 </a>
-                <a href="Trustee.php">
+                <a href="index.php#aboutTrustee">
                   Trustee Details
                 </a>
                 <a class="active" href="vision.php">

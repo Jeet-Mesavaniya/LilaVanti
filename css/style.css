@@ -1287,5 +1287,37 @@ a:focus {
   background-color: #007bff;
   color: #ffffff;
 }
+.custom-header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.custom-navbar-brand {
+  flex-shrink: 0;
+}
+
+.custom-contact-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.custom-contact-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.custom-contact-row a {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.gray-color {
+  color: #808080;
+}
+
 
 /*# sourceMappingURL=style.css.map */

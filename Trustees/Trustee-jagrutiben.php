@@ -128,17 +128,17 @@
         <!-- trustee 1 -->
         <div class="trustee-box" id="trusteeKISHANBHAI">
           <div class="img-box-trustee">
-            <img src="../images/KishanVora-Photo.jpg" alt="SHRI KISHANBHAI VORA" />
+            <img src="../images/Jagrutiben-photo.jpeg" alt="SHRI KISHANBHAI VORA" />
           </div>
           <div class="name-info">
-            <h5>SHRI KISHANBHAI VORA</h5>
-            <h6>FOUNDER/PRESIDENT</h6>
+            <h5>SHRI JAGRUTIBEN MESVANIYA</h5>
+            <h6> TRUSTEE </h6>
             <p>
-              Shri Kishanbhai Vora is the son of Vrajlal Vora, one of the most esteemed teachers of his era in Porbandar. He also carries the legacy of historian Manibhai Vora in his lineage. Professionally, Kishanbhai has served as an Instructor at the Government I.T.I for over 30 years, amassing vast experience in skill development and formal education.
+            Jagrutiben, a dedicated and compassionate leader, serves as a trustee of the Lilavanti Educational & Medical Charitable Trust. Her unwavering commitment to social welfare and community development has been instrumental in the Trust's ongoing efforts to improve the lives of countless individuals.
               <br><br>
-              Kishanbhai possesses a dynamic personality and extensive social connections, complemented by his distinguished residence. The Lilavanti Educational & Medical Charitable Trust is the fruition of his noble vision, conceived after completing his government duties. His unwavering commitment to helping others inspired the creation of this organization, dedicated to providing essential needs in today's modern, developing world: "skillful knowledge" and "good health".
+              With a strong background in education and healthcare, Jagrutiben has been a driving force behind the Trust's numerous initiatives aimed at providing quality education and accessible medical care to underprivileged communities. Her vision is rooted in the belief that every individual deserves the opportunity to lead a healthy and educated life, regardless of their socio-economic status.
               <br><br>
-              Due to his extraordinary abilities and altruistic nature, Kishanbhai is the ideal founder and president of this trust.
+              Under her leadership, the Lilavanti Educational & Medical Charitable Trust has launched several successful programs. These include scholarship schemes for meritorious students, health camps in rural areas, and awareness campaigns on crucial health issues. Jagrutiben's hands-on approach ensures that these programs are not only implemented effectively but also reach those who need them the most.
             </p>
             <!-- <div class="social_box">
               <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>

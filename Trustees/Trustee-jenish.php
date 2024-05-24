@@ -128,17 +128,17 @@
         <!-- trustee 1 -->
         <div class="trustee-box" id="trusteeKISHANBHAI">
           <div class="img-box-trustee">
-            <img src="../images/KishanVora-Photo.jpg" alt="SHRI KISHANBHAI VORA" />
+            <img src="../images/jenish-photo.jpg" alt="SHRI JENISH PITHADIYA" />
           </div>
           <div class="name-info">
-            <h5>SHRI KISHANBHAI VORA</h5>
-            <h6>FOUNDER/PRESIDENT</h6>
+            <h5>SHRI JENISH PITHADIYA</h5>
+            <h6>TRUSTEE</h6>
             <p>
-              Shri Kishanbhai Vora is the son of Vrajlal Vora, one of the most esteemed teachers of his era in Porbandar. He also carries the legacy of historian Manibhai Vora in his lineage. Professionally, Kishanbhai has served as an Instructor at the Government I.T.I for over 30 years, amassing vast experience in skill development and formal education.
+            Shri Jenish Pithadiya is a key trustee of the Lilavanti Educational & Medical Charitable Trust, where his dedication to philanthropy and community service is highly regarded. With a strong commitment to social betterment, Shri Jenish has played an integral role in the Trust's mission to provide quality education and healthcare to the underprivileged.
               <br><br>
-              Kishanbhai possesses a dynamic personality and extensive social connections, complemented by his distinguished residence. The Lilavanti Educational & Medical Charitable Trust is the fruition of his noble vision, conceived after completing his government duties. His unwavering commitment to helping others inspired the creation of this organization, dedicated to providing essential needs in today's modern, developing world: "skillful knowledge" and "good health".
+              With a background in business and social work, Shri Jenish brings a unique blend of expertise and compassion to the Trust. His strategic acumen has been pivotal in the successful implementation of various initiatives aimed at uplifting the community. Under his stewardship, the Trust has launched numerous educational programs, including scholarship schemes for deserving students and infrastructure support for rural schools.
               <br><br>
-              Due to his extraordinary abilities and altruistic nature, Kishanbhai is the ideal founder and president of this trust.
+              Shri Jenish's leadership style is marked by his hands-on approach and personal involvement in the Trust's activities. He frequently visits project sites, engages with beneficiaries, and ensures that their needs are met effectively. His ability to connect with people from all walks of life has fostered a strong sense of trust and collaboration within the community.
             </p>
             <!-- <div class="social_box">
               <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>

@@ -43,31 +43,39 @@
   <div class="hero_area">
     <!-- header section strats -->
     <header class="header_section">
-      <div class="header_top">
-        <a class="navbar-brand" href="index.php">
+    
+    <div class="header_top header_top_contact custom-header-top">
+      <a class="navbar-brand custom-navbar-brand" href="index.php">
           <img src="images/Lilavanti-logo.png" alt="Lilavanti Logo">
-        </a>
-        <div class="contact_nav header_top_contact2">
-          <a href="tel:8866320893">
-            <i class="fa fa-phone" aria-hidden="true"></i>
-            <span class="gray-color">
-              8866320893 | 9429040878
-            </span>
-          </a>
-          <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
-            <i class="fa fa-envelope" aria-hidden="true"></i>
-            <span class="gray-color">
-              info@lilavanti.org
-            </span>
-          </a>
-          <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
-            <i class="fa fa-map-marker" aria-hidden="true"></i>
-            <span class="gray-color">
-              Lilavanti Educational & Medical Charitable Trust
-            </span>
-          </a>
-        </div>
+      </a>
+      <div class="contact_nav custom-contact-nav">
+          <div class="contact_row custom-contact-row">
+              <a href="tel:8866320893">
+                  <i class="fa fa-phone" aria-hidden="true"></i>
+                  <span class="gray-color">8866320893</span>
+              </a>
+              <a href="mailto:info@lilavanti.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
+                  <i class="fa fa-envelope" aria-hidden="true"></i>
+                  <span class="gray-color">info@lilavanti.org</span>
+              </a>
+          </div>
+          <div class="contact_row custom-contact-row">
+              <a href="tel:9429040878">
+                  <i class="fa fa-phone" aria-hidden="true"></i>
+                  <span class="gray-color">9429040878</span>
+              </a>
+              <a href="https://maps.app.goo.gl/n3z7t5raiJShfKcr6">
+                  <i class="fa fa-map-marker" aria-hidden="true"></i>
+                  <span class="gray-color">Lilavanti Educational & Medical Charitable Trust</span>
+              </a>
+          </div>
       </div>
+    </div>
+
+
+
+
+
       <div class="header_bottom">
         <div class="container-fluid">
           <nav class="navbar navbar-expand-lg custom_nav-container ">
@@ -391,7 +399,7 @@
             <div class="box">
               <div class="img-box">
               <a href="Trustees/Trustee-jenish.php">
-                <img class="image-max-width" id="aboutImage" src="images/raj.jpeg"   alt="" />
+                <img class="image-max-width" id="aboutImage" src="images/jenish-photo.jpg"   alt="" />
               </a>
               </div>
               <div class="detail-box">
@@ -455,7 +463,7 @@
             <div class="box">
               <div class="img-box">
                 <a href="Trustees/Trustee-jagrutiben.php">
-                  <img class="image-max-width" src="images/DenishVyas-Photo.jpg" alt="" />
+                  <img class="image-max-width" src="images/Jagrutiben-photo.jpeg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
