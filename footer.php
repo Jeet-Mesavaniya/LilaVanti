@@ -85,7 +85,7 @@
                 <a href="vision.php">
                   Vision
                 </a>
-                <a href="#">
+                <a href="gallery.php">
                 Gallary
                 </a>
               </div>

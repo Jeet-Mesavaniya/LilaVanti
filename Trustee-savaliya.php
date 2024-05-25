@@ -52,7 +52,7 @@
         Our <span>Trustee Details</span>
       </h2>
     </div>
-    <section class="team_section layout_padding-cus">
+    <section class="layout_padding-cus">
       <div class="container">
        
   

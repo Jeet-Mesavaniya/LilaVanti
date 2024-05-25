@@ -39,51 +39,42 @@
   <div class="hero_area">
     <!-- header section starts -->
     <?php include 'header.php'; ?>
-
     <!-- end header section -->
   </div>
 <br>
-<br>
 
   <!-- team section -->
-  <div class="trustee-back-change ml-5 mb-5 mr-5">
-    <div class="heading_container heading_center">
-      <h2>
-        Our <span>Trustee Details</span>
-      </h2>
-    </div>
-    <section class="layout_padding-cus">
-      <div class="container">
-       
-  
-        <!-- trustee 1 -->
-        <div class="trustee-box" id="trusteeKISHANBHAI">
-          <div class="img-box-trustee">
-            <img src="images/raj1.jpeg" alt="SHRI KISHANBHAI VORA" />
-          </div>
-          <div class="name-info">
-            <h5>SHRI RAJ VORA</h5>
-            <h6>MANAGER</h6>
-            <p>
-            Shri Raj Vora brings a wealth of experience and a deep commitment to his role as a trustee of the Lilavanti Education & Medical Charitable Trust. With a solid background in management and a passion for philanthropy, Shri Vora is dedicated to advancing the Trust's mission of providing quality education and healthcare services to underprivileged communities.
-              <br><br>
-              Shri Raj Vora envisions a future where every child has the opportunity to receive a quality education and where healthcare is accessible to all, regardless of socio-economic status. He is committed to expanding the reach and impact of the Lilavanti Education & Medical Charitable Trust, continually exploring new ways to support and empower those in need.
-              <br><br>
-              Shri Raj Vora's leadership, dedication, and compassion make him an invaluable asset to the Lilavanti Education & Medical Charitable Trust. His unwavering commitment to service exemplifies the Trust's values and inspires others to join in the mission of creating a brighter, healthier, and more educated society.
-            </p>
-            <!-- <div class="social_box">
-              <a ><i class="fa fa-facebook" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-twitter" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-              <a ><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div> -->
-          </div>
+   <!-- <div class="heading_container_Gallary">
+        <h2>
+            <span>Gallery</span>
+        </h2>
+    </div> -->
+  <div class="gallery mb-5 ml-5 mr-5 mt-1">
+        <div class="gallery-item">
+            <img src="images/image1.jpg" alt="Image 1">
         </div>
-        <!-- trustee 1 end -->
-
-      </div>
-    </section>
-  </div>
+        <div class="gallery-item">
+            <img src="images/image1.jpg" alt="Image 2">
+        </div>
+        <div class="gallery-item">
+            <img src="images/image1.jpg" alt="Image 3">
+        </div>
+        <div class="gallery-item">
+            <img src="images/image1.jpg" alt="Image 4">
+        </div>
+        <div class="gallery-item">
+            <img src="images/image1.jpg" alt="Image 5">
+        </div>
+        <div class="gallery-item">
+            <img src="images/image1.jpg" alt="Image 6">
+        </div>
+        <div class="gallery-item">
+            <img src="images/image1.jpg" alt="Image 7">
+        </div>
+        <div class="gallery-item">
+            <img src="images/image1.jpg" alt="Image 8">
+        </div>
+    </div>
   <!-- end team section -->
 
   <?php include 'footer.php'; ?>
