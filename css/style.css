@@ -6,6 +6,9 @@
   --sec-gray: #6d6d6d;
   
 }
+.pri-color{
+  color: var(--primary-color);
+}
 .sec-color{
   color: var(--secondary-color);
 }
@@ -119,11 +122,11 @@ a:focus {
   padding: 15px 0;
 }
 
-.header_section .header_top .contact_nav {
+/* .header_section .header_top .contact_nav {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-}
+} */
 
 .header_section .header_top .contact_nav a {
   margin-right: 25px;

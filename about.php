@@ -65,7 +65,7 @@
               </h1>
             </div>
             <p>
-                This trust was established on 20th July 2022 by its founder, Kishan Vora. The primary focus of this trust is to identify and enhance the existing skills among students, sharpening these skills and cultivating their strengths. With a fundamental aim centered around skill-based development, the trust operates mainly in two crucial areas: education and healthcare. 
+                This trust was established on 20th July 2022 by its founder, Kishan Vora, under THE BOMBAY PUBLIC TRUSTS ACT, 1950. The primary focus of this trust is to identify and enhance the existing skills among students, sharpening these skills and cultivating their strengths. With a fundamental aim centered around skill-based development, the trust operates mainly in two crucial areas: education and healthcare. 
                 <br>
                 <br>
                 In the present era, these two basic necessities are essential for the well-being and advancement of individuals. The trust endeavors to provide these vital amenities to as many people as possible, ensuring that education and healthcare are accessible and of high quality. Through its initiatives, the trust aims to empower individuals, foster community growth, and contribute to the overall development of society.

@@ -15,8 +15,8 @@
     margin-top: 0;
   }
 
-  .header_section .header_top .contact_nav {
-    justify-content: space-between;
+  .header_section .header_top .contact_nav-res {
+    display: none;
   }
 
   .quote_btn-container {

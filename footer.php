@@ -27,9 +27,15 @@
                 </span>
               </a>
               <a>
+              <img id="twitter-img2" class="mr-2 p-xl-0" src="images/whatsapp_white.svg" alt="Phone Icon" style="width: 18px; height: 21px" aria-hidden="true"/>
+                <span>
+                  8866320893
+                </span>
+              </a>
+              <a>
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
-                  8866320893 | 9429040878
+                  9429040878
                 </span>
               </a>
               <a href="mailto:Info@lilavantitrust.org?subject=Inquiry%20About%20Your%20Charitable%20Trust&body=Dear%20[Recipient's%20Name],%0D%0A%0D%0AI%20hope%20this%20email%20finds%20you%20well.%20I'm%20interested%20in%20learning%20more%20about%20your%20charitable%20trust%20and%20how%20I%20can%20get%20involved%20or%20support%20your%20initiatives.%20Could%20you%20please%20provide%20me%20with%20some%20details%20about%20your%20mission,%20projects,%20and%20any%20opportunities%20for%20volunteering%20or%20donations?%0D%0A%0D%0AThank%20you,%0D%0A%0D%0A[Your%20Name]">
@@ -40,18 +46,21 @@
               </a>
             </div>
             <div class="social_box">
-              <a >
+              <a href="https://www.facebook.com/profile.php?id=100084333200171">
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </a>
-              <a > 
+              <a href="https://twitter.com/lilavantitrust"> 
                 <img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/>
                 <!-- <i class="fa fa-twitter" aria-hidden="true"></i> -->
               </a>
-              <a >
+              <a href="https://www.linkedin.com/in/lilavantitrust/">
                 <i class="fa fa-linkedin" aria-hidden="true"></i>
               </a>
-              <a >
+              <a href="https://www.instagram.com/lilavantitrust/">
                 <i class="fa fa-instagram" aria-hidden="true"></i>
+              </a>
+              <a href="https://www.youtube.com/channel/UCxXh_OFl-4EEkIRfClf1iyw">
+                <i class="fa fa-youtube" aria-hidden="true"></i>
               </a>
             </div>
           </div>
@@ -75,15 +84,6 @@
                 </a>
                 <a href="vision.php">
                   Vision
-                </a>
-                <a href="#">
-                Education
-                </a>
-                <a href="#">
-                Medical
-                </a>
-                <a href="#">
-                Charity
                 </a>
                 <a href="#">
                 Gallary
