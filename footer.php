@@ -27,7 +27,7 @@
                 </span>
               </a>
               <a>
-              <img id="twitter-img2" class="mr-2 p-xl-0" src="images/whatsapp_white.svg" alt="Phone Icon" style="width: 18px; height: 21px" aria-hidden="true"/>
+              <i class="fa fa-whatsapp" aria-hidden="true"></i>
                 <span>
                   8866320893
                 </span>
@@ -51,6 +51,7 @@
               </a>
               <a href="https://twitter.com/lilavantitrust"> 
                 <img id = "twitter-img" src = "images/x-twitter.svg" alt="My Happy SVG" style="width : 20px; height : 24px" aria-hidden="true"/>
+                <!-- <i class="fa-x-twitter"></i> -->
                 <!-- <i class="fa fa-twitter" aria-hidden="true"></i> -->
               </a>
               <a href="https://www.linkedin.com/in/lilavantitrust/">
