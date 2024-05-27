@@ -51,28 +51,21 @@
     </div> -->
   <div class="gallery mb-5 ml-5 mr-5 mt-1">
         <div class="gallery-item">
-            <img src="images/image1.jpg" alt="Image 1">
+            <img src="images/Cherity/20240402_114929.jpg" alt="Image 1">
         </div>
         <div class="gallery-item">
-            <img src="images/image1.jpg" alt="Image 2">
+            <img src="images/Cherity/20240402_115023.jpg" alt="Image 2">
         </div>
         <div class="gallery-item">
-            <img src="images/image1.jpg" alt="Image 3">
+            <img src="images/Cherity/20240402_115216.jpg" alt="Image 3">
+        </div>
+    </div>
+    <div class="gallery mb-5 ml-5 mr-5 mt-1">
+        <div class="gallery-item">
+            <img src="images/Cherity/20240402_115552.jpg" alt="Image 1">
         </div>
         <div class="gallery-item">
-            <img src="images/image1.jpg" alt="Image 4">
-        </div>
-        <div class="gallery-item">
-            <img src="images/image1.jpg" alt="Image 5">
-        </div>
-        <div class="gallery-item">
-            <img src="images/image1.jpg" alt="Image 6">
-        </div>
-        <div class="gallery-item">
-            <img src="images/image1.jpg" alt="Image 7">
-        </div>
-        <div class="gallery-item">
-            <img src="images/image1.jpg" alt="Image 8">
+            <img src="images/Cherity/20240402_115625.jpg" alt="Image 3">
         </div>
     </div>
   <!-- end team section -->
@@ -90,5 +83,4 @@
   <!-- custom js -->
   <script src="js/custom.js"></script>
 </body>
-
 </html>

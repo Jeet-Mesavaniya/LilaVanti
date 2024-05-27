@@ -208,7 +208,7 @@
             <div class="box">
               <div class="img-box">
               <a href="Trustee-Kishanbhai.php">
-                <img id="aboutImage" class="image-max-width" src="images/KishanVora-Photo.jpg"   alt="" />
+                <img id="aboutImage" src="images/KishanVora-Photo.jpg"   alt="" />
               </a>
               </div>
               <div class="detail-box">
@@ -224,7 +224,7 @@
             <div class="box">
               <div class="img-box">
               <a href="Trustee-raj.php">
-                <img id="aboutImage" class="image-max-width" src="images/raj1.jpeg"   alt="" />
+                <img id="aboutImage" src="images/raj.jpg"   alt="" />
               </a>
               </div>
               <div class="detail-box">
@@ -240,7 +240,7 @@
             <div class="box">
               <div class="img-box">
               <a href="Trustee-jenish.php">
-                <img class="image-max-width" id="aboutImage" src="images/jenish-photo.jpg"   alt="" />
+                <img id="aboutImage" src="images/jenish-photo.jpg"   alt="" />
               </a>
               </div>
               <div class="detail-box">
@@ -256,7 +256,7 @@
             <div class="box">
               <div class="img-box">
                 <a href="Trustee-savaliya.php">
-                  <img class="image-max-width" src="images/Dhanjibhai-Photo.jpg" alt="" />
+                  <img src="images/Dhanjibhai-Photo.jpg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
@@ -272,7 +272,7 @@
             <div class="box">
               <div class="img-box">
                 <a href="Trustee-sejalben.php">
-                  <img class="image-max-width" src="images/SejalMesia-Photo.jpg" alt="" />
+                  <img src="images/SejalMesia-Photo.jpg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
@@ -288,7 +288,7 @@
             <div class="box">
               <div class="img-box">
                 <a href="Trustee-sunilbhai.php">
-                  <img class="image-max-width" src="images/SunilBhatt-Photo.jpg" alt="" />
+                  <img src="images/SunilBhatt-Photo.jpg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
@@ -304,7 +304,7 @@
             <div class="box">
               <div class="img-box">
                 <a href="Trustee-jagrutiben.php">
-                  <img class="image-max-width" src="images/Jagrutiben-photo.jpeg" alt="" />
+                  <img src="images/Jagrutiben-photo.jpg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
@@ -320,7 +320,7 @@
             <div class="box">
               <div class="img-box">
                 <a href="Trustee-denishbhai.php">
-                  <img class="image-max-width" src="images/DenishVyas-Photo.jpg" alt="" />
+                  <img src="images/DenishVyas-Photo.jpg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
@@ -338,7 +338,7 @@
             <div class="box">
               <div class="img-box">
                 <a href="Trustee-alkaben.php">
-                  <img class="image-max-width" src="images/Alkaben-Photo.jpg" alt="" />
+                  <img src="images/Alkaben-Photo.jpg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
@@ -354,7 +354,7 @@
             <div class="box">
               <div class="img-box">
                 <a href="Trustee-amiben.php">
-                  <img class="image-max-width" src="images/AmiBhatt-Photo.jpg" alt="" />
+                  <img src="images/AmiBhatt-Photo.jpg" alt="" />
                 </a>
               </div>
               <div class="detail-box">
