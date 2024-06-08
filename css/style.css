@@ -168,7 +168,8 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link {
-  color: var(--primary-color);
+  color: var(--secondary-color);
+  font-weight: bold;
 }
 
 .custom_nav-container .nav_search-btn {
@@ -353,7 +354,7 @@ a:focus {
 }
 
 .slider_section .play_btn button {
-  background-color: var(--primary-color);
+  background-color: white;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -946,6 +947,10 @@ a:focus {
   background-color: #252525;
   color: #ffffff;
 }
+.info_section .contactuss{
+  background-color: #252525;
+  color:var(--secondary-color)
+}
 
 .info_section .info_top {
   display: -webkit-box;
@@ -962,7 +967,7 @@ a:focus {
 
 .info_section .info_top .info_logo a {
   display: block;
-  background-color: #ffffff;
+  background-color: #252525;
   padding: 20px 35px;
 }
 
@@ -1290,7 +1295,11 @@ a:focus {
   max-width: 185px;
 }
 .dropdown-item:hover{
-  background-color: #007bff;
+  background-color: var(--secondary-color);
+  color: #ffffff;
+}
+.hovereffectclass .dropdown-item:hover{
+  background-color: var(--secondary-color);
   color: #ffffff;
 }
 .custom-header-top {
@@ -1395,6 +1404,10 @@ a:focus {
 .dropdown-menu a {
     color: #ffffff; /* Text color */
 }
+}
+
+.hovereffectclass :hover{
+  background-color: #ffffff;
 }
 
 /*# sourceMappingURL=style.css.map */

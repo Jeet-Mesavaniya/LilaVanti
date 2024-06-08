@@ -8,7 +8,7 @@
           </a>
         </div>
         <div class="info_logo">
-          <h1>
+          <h1 class="contactuss">
             Contact Us
           </h5>
         </div>
@@ -71,7 +71,7 @@
                 Useful link
               </h5>
               <div class="info_links_menu">
-                <a class="active" href="index.php">
+                <a class="" href="index.php">
                   Home
                 </a>
                 <a href="about.php">

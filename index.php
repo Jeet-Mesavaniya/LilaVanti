@@ -46,7 +46,9 @@
     <!-- end header section -->
     <!-- slider section -->
     <section class="slider_section ">
-
+      <div class="dot_design">
+        <img src="images/dots.png" alt="">
+      </div>
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -56,17 +58,17 @@
                   <div class="detail-box">
                     <div class="play_btn">
                       <button>
-                        <img src="images/logo.png" style="width : 50px; height : 50px;" alt="Icon description"></i>
+                      <img src="images/logo.png" style="width : 50px; height : 50px;" alt="Icon description"></i>
                       </button>
                     </div>
                     <!-- 1st -->
                     <h1>
                         LilaVanti <br>
-                      <span>
+                        <span>
                         Education & Medical Cheritable Trust
                       </span>
                     </h1>
-                   
+
                     <a href="#ContactSection" class="sec-color">
                       Contact Us
                     </a>
@@ -81,6 +83,80 @@
               </div>
             </div>
           </div>
+          <div class="carousel-item">
+            <div class="container ">
+              <div class="row">
+              <div class="col-md-6">
+                  <div class="detail-box">
+                    <div class="play_btn">
+                      <button >
+                      <img src="images/logo.png" style="width : 50px; height : 50px;" alt="Icon description"></i>
+                      </button>
+                    </div>
+                    <!-- 1st -->
+                    <h1>
+                        LilaVanti <br>
+                        <span>
+                        Education & Medical Cheritable Trust
+                      </span>
+                    </h1>
+
+                    <a href="#ContactSection" class="sec-color">
+                      Contact Us
+                    </a>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="img-box">
+                    <img src="images/education.png" alt="">
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container ">
+              <div class="row">
+              <div class="col-md-6">
+                  <div class="detail-box">
+                    <div class="play_btn">
+                      <button>
+                      <img src="images/logo.png" style="width : 50px; height : 50px;" alt="Icon description"></i>
+                      </button>
+                    </div>
+                    <!-- 1st -->
+                    <h1>
+                        LilaVanti <br>
+                        <span>
+                        Education & Medical Cheritable Trust
+                      </span>
+                    </h1>
+
+                    <a href="#ContactSection" class="sec-color">
+                      Contact Us
+                    </a>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="img-box">
+                    <img src="images/medicall.png" alt="">
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel_btn-box">
+          <a class="carousel-control-prev" href="#customCarousel1" role="button" data-slide="prev">
+            <img src="images/prev.png" alt="">
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#customCarousel1" role="button" data-slide="next">
+            <img src="images/next.png" alt="">
+            <span class="sr-only">Next</span>
+          </a>
         </div>
       </div>
 
