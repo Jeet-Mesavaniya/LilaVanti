@@ -949,7 +949,7 @@ a:focus {
 }
 .info_section .contactuss{
   background-color: #252525;
-  color:var(--secondary-color)
+  color: #ffffff;
 }
 
 .info_section .info_top {
